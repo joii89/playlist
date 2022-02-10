@@ -1,0 +1,23 @@
+#EXTM3U
+
+<------------ Nasional ------------
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="nasional", ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="nasional", TVONE
+https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="nasional", SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="nasional", RCTI
+https://iptv.mwafa.net/rctiplus/rcti/index.m3u8?token=3394
+
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="nasional", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="nasional", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
