@@ -74,27 +74,28 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-url"http://www.transvision.co.id" tvg-logo="https://i.postimg.cc/FzJgQzhf/cnn-vector-graphics-logo-clip-art-design-0f7114082ccb6a651ce2608d2379e007.png" group-title="nasional",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 <------------- Movie -----------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES",HBO HD
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES",HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/cHVgD7mw/789113.png" group-title="MOVIES",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MOVIES",HBO Hits HD
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="MOVIES",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES",HBO Signature HD
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/RhHSfkzd/pngaaa-com-3837786.png" group-title="MOVIES",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -175,16 +176,18 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 <------------ Sports ------------
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="Sport", MOLA TV FREE
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="Sports",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/DRC6hWt.png" group-title="SPORTS",beIN Sports 1
+#EXTINF:0 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/DRC6hWt.png" group-title="Sports",beIN Sports 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/q85iIKk.png" group-title="SPORTS",beIN Sports 2
+#EXTINF:0 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/q85iIKk.png" group-title="Sports",beIN Sports 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
