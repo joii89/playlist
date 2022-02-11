@@ -10,10 +10,10 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
 
 #EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="INDONESIA",Bioskop Indonesia
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
-http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-https://lnk.ec/bioskopIndo?shareext.ts
-https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
+#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
+#http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#https://lnk.ec/bioskopIndo?shareext.ts
+#https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="nasional", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
@@ -58,6 +58,14 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+
+#EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="INDONESIA",SCTV HD
+#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#https://znjjprwzgeyyp.vidio.com/live/204/master.m3u8
+#http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-204
+#https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
+#https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+#http://gpc.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Nasional",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
