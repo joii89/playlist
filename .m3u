@@ -9,14 +9,19 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="nasional", TVONE
 https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
 
-#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="nasional",Bioskop Indonesia
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
-http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="nasional", Bioskop Indonesia
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia
+https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
+http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 https://lnk.ec/bioskopIndo?shareext.ts
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="nasional", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="nasional", SCTV [dens]
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="nasional", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -33,6 +38,9 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="nasional",GLOBAL TV
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="nasional", METROTV
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=3394
@@ -54,7 +62,7 @@ https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="nasional",INEWS
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="nasional",INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
@@ -70,11 +78,15 @@ http://gpc.my.id/vidio/sctv.m3u8
 #EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="nasional",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="nasional",BERITASATU
+#EXTINF:-1 tvg-id="BERITASATU" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="nasional",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-url"http://www.transvision.co.id" tvg-logo="https://i.postimg.cc/FzJgQzhf/cnn-vector-graphics-logo-clip-art-design-0f7114082ccb6a651ce2608d2379e007.png" group-title="nasional",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="nasional",RCTI
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=8-mp4a_96000=2.m3u8
+
 
 <------------- Movie -----------
 
