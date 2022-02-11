@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-<------------ Nasional ------------
+<------------ nasional ------------
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="nasional", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
@@ -9,11 +9,11 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="nasional", TVONE
 https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
 
-#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="INDONESIA",Bioskop Indonesia
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
-#http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-#https://lnk.ec/bioskopIndo?shareext.ts
-#https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
+#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="nasional",Bioskop Indonesia
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bioskopindonesia&b=14&c=bioskopindonesia #https://radenroro.net/RHS/homempd.m3u8?channel=bioskopindonesia 
+http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+https://lnk.ec/bioskopIndo?shareext.ts
+https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="nasional", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
@@ -59,18 +59,21 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
-#EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="INDONESIA",SCTV HD
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/live/204/master.m3u8
-#http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-204
-#https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
-#https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
-#http://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="nasional",SCTV HD
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/live/204/master.m3u8
+http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-204
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+http://gpc.my.id/vidio/sctv.m3u8
 
-#EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Nasional",O Channel
+#EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="nasional",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
 
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-url"http://www.transvision.co.id" tvg-logo="https://i.postimg.cc/FzJgQzhf/cnn-vector-graphics-logo-clip-art-design-0f7114082ccb6a651ce2608d2379e007.png" group-title="Nasional",CNN Indonesia
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="nasional",BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-url"http://www.transvision.co.id" tvg-logo="https://i.postimg.cc/FzJgQzhf/cnn-vector-graphics-logo-clip-art-design-0f7114082ccb6a651ce2608d2379e007.png" group-title="nasional",CNN Indonesia
 
 <------------- Movie -----------
 
