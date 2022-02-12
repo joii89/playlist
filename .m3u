@@ -4,8 +4,6 @@
 
 <------------ PLAYLIST ------------
 
-#EXTINF:-1 tvg-id="" tvg-name="Buka ini Dulu (Agar Channel Lain Terbuka)" tvg-logo="https://www.dropbox.com/s/kwhgzytlz7wcxnc/buka%20dulu.jpeg?dl=1" group-title="PLAYLIST",Buka ini Dulu (Agar Channel Lain Terbuka)
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=natgeowild&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="PLAYLIST", Bioskop Indonesia 
 http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8
