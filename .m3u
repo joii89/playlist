@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
 
 <------------ PLAYLIST ------------
@@ -23,12 +22,10 @@ http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxCFC7VH/image.png" group-title="PLAYLIST", TRANS TV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="PLAYLIST", TRANS 7
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="PLAYLIST",GLOBAL TV
 https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
@@ -70,15 +67,12 @@ https://iptv.mwafa.net/vidio/777/index.m3u8?token=3394
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="PLAYLIST",MNC TV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="PLAYLIST", NET
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=3394
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="PLAYLIST", INDOSIAR
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -92,7 +86,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="PLAYLIST", TVONE
-https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
+https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="PLAYLIST",INEWS
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
@@ -142,16 +136,14 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="PLAYLIST",SONY One
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="PLAYLIST",KPlus
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="PLAYLIST",K+
 http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="PLAYLIST",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
