@@ -52,6 +52,12 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="PLAYLIST",Bioskop Indonesia
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Vidio)" tvg-logo="https://mantul.org/logo/citradrama.png" group-title="PLAYLIST",Citra Drama
+https://akudandia.xyz/man-prem/cdrama.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CITRA BIOSKOP (Vidio)" tvg-logo="https://mantul.org/logo/citrabioskop.png" group-title="PLAYLIST",CITRA BIOSKOP
+https://akudandia.xyz/man-prem/cbioskop.m3u8
+
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="PLAYLIST",HOLLYWOOD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
