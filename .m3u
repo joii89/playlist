@@ -1,9 +1,9 @@
-#EXTM3U
-https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
-https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml
-https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml
-https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
 <------------ PLAYLIST ------------
 
@@ -49,14 +49,11 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title=PLAYLIST",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="INDONESIA",Bioskop Indonesia
+#EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="PLAYLIST",Bioskop Indonesia
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="PLAYLIST",HOLLYWOOD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UTV Movies" tvg-logo="https://i.postimg.cc/7LPpw00g/images-4.jpg" group-title="PLAYLIST",Movies
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="PLAYLIST", TRANS 7
 https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
