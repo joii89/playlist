@@ -52,6 +52,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="PLAYLIST",Bioskop Indonesia
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PLAYLIST",Citra tv
+http://122.248.43.138:1935/ch28/myStream/live.m3u8
+
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="PLAYLIST",HOLLYWOOD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
@@ -77,7 +80,7 @@ https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="PLAYLIST", TVONE
-0http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="PLAYLIST",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
