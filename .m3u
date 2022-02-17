@@ -51,19 +51,14 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/Gpr7HGnL/Bioskop-ind.png" group-title="PLAYLIST",Bioskop Indonesia
 https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Vidio)" tvg-logo="https://i.postimg.cc/QdJbT0Sz/c-d.png" group-title="PLAYLIST",Citra Drama
 https://akudandia.xyz/man-prem/cdrama.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CITRA BIOSKOP (Vidio)" tvg-logo="https://i.postimg.cc/fyQJRf5Z/citrabkp.png" group-title="PLAYLIST",CITRA BIOSKOP
 https://akudandia.xyz/man-prem/cbioskop.m3u8
-
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="PLAYLIST",HOLLYWOOD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="PLAYLIST", TRANS 7
 https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
-
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="PLAYLIST",MNC TV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
@@ -75,16 +70,12 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="PLAYLIST", INDOSIAR
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
-
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="PLAYLIST", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="PLAYLIST", TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
 #EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="PLAYLIST",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzLFRC2J/images-5.jpg" group-title="PLAYLIST",KIX
 http://210.210.155.35/session/14ff8660-5fda-11ec-a8d2-c81f66f89318/dr9445/h/h07/01.m3u8
 
@@ -162,16 +153,12 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ElshintaTV" tvg-logo="" group-title="PLAYLIST",ElshintaTV
 http://210.210.155.35/session/e085fd82-5f76-11ec-9659-a9228378f0e9/qwr9ew/s/s10/01.m3u8
-
 #EXTINF:-1 tvg-id="BERITASATU" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="PLAYLIST",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="PLAYLIST", METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-url"http://www.transvision.co.id" tvg-logo="https://i.postimg.cc/FzJgQzhf/cnn-vector-graphics-logo-clip-art-design-0f7114082ccb6a651ce2608d2379e007.png" group-title="PLAYLIST",CNN Indonesia
 http://goldenlivektv.com/M*M*K/Channel_Cnnindonesia.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="PLAYLIST",INEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
@@ -212,6 +199,6 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="PLAYLIST" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/soccerchannel.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
