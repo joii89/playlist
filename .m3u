@@ -8,7 +8,7 @@
 <------------ PLAYLIST ------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="PLAYLIST", SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
+https://raw.githubusercontent.com/joii89/joii89playlistiptv.github.io/main/vidiosctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="PLAYLIST", RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
