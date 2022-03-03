@@ -70,6 +70,11 @@ https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="PLAYLIST", NET
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.postimg.cc/mrNtDRD4/GTV-logo-2017.png" group-title="INDONESIA CHANNEL",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="PLAYLIST", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="PLAYLIST", ANTV
@@ -167,7 +172,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://i.postimg.cc/8zC4yzgN/Zee-Cinema-HQ.png" group-title="Movies",ZEE Cinema
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://i.postimg.cc/8zC4yzgN/Zee-Cinema-HQ.png" group-title="PLAYLIST",ZEE Cinema
 https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ElshintaTV" tvg-logo="" group-title="PLAYLIST",ElshintaTV
@@ -221,3 +226,6 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="PLAYLIST" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/soccerchannel.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhL7Dxhg/IMG-0201.png" group-title="PLAYLIST" ,MOTORVISIONTV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
