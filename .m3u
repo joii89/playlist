@@ -217,3 +217,5 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhL7Dxhg/IMG-0201.png" group-title="PLAYLIST" ,MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="PLAYLIST",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
