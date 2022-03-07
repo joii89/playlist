@@ -16,6 +16,7 @@ https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxCFC7VH/image.png" group-title="PLAYLIST", TRANS TV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="PLAYLIST",GLOBAL TV
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
