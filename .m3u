@@ -240,3 +240,71 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="PLAYLIST",MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+
+<------------ MOVIES ------------
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO Asia" group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo 1.jpg?dl=1",HBO
+https://anevia115.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO 2
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO 3
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO 4
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO 5
+http://shareext@urtv.cc:80/live/297340/297340/7067.ts?Shareext.ts
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO 6
+http://shareext@urtv.cc:80/live/297340/297340/7071.ts?Shareext.ts
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="MOVIES",HBO 7
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60473
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://rubbyguntara.github.io/src/img/hbohits.png" group-title="MOVIES",HBO Hits
+https://anevia115.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://rubbyguntara.github.io/src/img/hbohits.png" group-title="MOVIES",HBO Hits 2
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://rubbyguntara.github.io/src/img/hbohits.png" group-title="MOVIES",HBO Hits 3
+http://shareext@urtv.cc:80/live/297340/297340/7068.ts?Shareext.ts
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://rubbyguntara.github.io/src/img/hbohits.png" group-title="MOVIES",HBO Hits
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60458
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/RhHSfkzd/pngaaa-com-3837786.png" group-title="MOVIES",HBO Signature
+https://anevia115.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/RhHSfkzd/pngaaa-com-3837786.png" group-title="MOVIES",HBO Signature 2
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/RhHSfkzd/pngaaa-com-3837786.png" group-title="MOVIES",HBO Signature 3
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60456
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX
+https://anevia115.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 2
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 3
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 4
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60459
+
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="MOVIES",Galaxy Premium
+http://shareext@urtv.cc:80/live/297340/297340/8838.ts?Shareext.ts
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="MOVIES",Galaxy
+http://shareext@urtv.cc:80/live/297340/297340/8839.ts?Shareext.ts
+#EXTINF:-1 tvg-id="StarMoviesAsia.hk" tvg-name="Star Movies Asia" tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="MOVIES",Star Movies
+http://shareext@urtv.cc:80/live/297340/297340/8997.ts?Shareext.ts
+#EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="MOVIES",BOO
+http://shareext@urtv.cc:80/live/297340/297340/8872.ts?Shareext.ts
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MOVIE_GROUP
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID027:GTV" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="MOVIES",GTV
+http://95.214.235.96:8880/SFL122431/N6EG15T0/60483
