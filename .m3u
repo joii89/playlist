@@ -240,6 +240,14 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="PLAYLIST",MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1,MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/eroz_brebes.m3u8
+#EXTINF:-1,Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:-1,MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1,Citra Dangdut
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 
 <------------ MOVIES ------------
@@ -304,3 +312,5 @@ http://shareext@urtv.cc:80/live/297340/297340/8872.ts?Shareext.ts
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID027:GTV" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="MOVIES",GTV
 http://95.214.235.96:8880/SFL122431/N6EG15T0/60483
+#EXTINF:-1,LOCAL MOVIE 90'S
+https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
