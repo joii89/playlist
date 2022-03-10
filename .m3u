@@ -239,7 +239,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhL7Dxhg/IMG-0201.png" group-title="PLAYLIST" ,MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="PLAYLIST",MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 
 <------------ MOVIES ------------
@@ -291,10 +291,6 @@ http://95.214.235.96:8880/SFL122431/N6EG15T0/60456
 https://anevia115.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 2
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 3
-http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 4
-http://95.214.235.96:8880/SFL122431/N6EG15T0/60459
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="MOVIES",Galaxy Premium
 http://shareext@urtv.cc:80/live/297340/297340/8838.ts?Shareext.ts
