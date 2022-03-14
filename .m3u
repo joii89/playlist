@@ -11,9 +11,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="PLAYLIST", SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 http://akudandia.xyz/locs/akudandia-204.m3u8
 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="PLAYLIST", RCTI
@@ -318,7 +318,5 @@ http://shareext@urtv.cc:80/live/297340/297340/8997.ts?Shareext.ts
 http://shareext@urtv.cc:80/live/297340/297340/8872.ts?Shareext.ts
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",MOVIE_GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID027:GTV" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="MOVIES",GTV
-http://95.214.235.96:8880/SFL122431/N6EG15T0/60483
 #EXTINF:-1,LOCAL MOVIE 90'S
 https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
