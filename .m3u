@@ -11,8 +11,8 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="PLAYLIST", SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 http://akudandia.xyz/locs/akudandia-204.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
@@ -117,6 +117,7 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="PLAYLIST",HITS
+http://210.210.155.35/dr9445/h/h37/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
