@@ -253,14 +253,18 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="PLAYLIST",MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1,MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/eroz_brebes.m3u8
-#EXTINF:-1,Music TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="PLAYLIST",POP MUSIK
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jr8t2cH/MUSIC-TV.png" group-title="PLAYLIST",MUSIC TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1,MTV Live
+
+#EXTINF:-1 group-title="PLAYLIST", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/eroz_brebes.m3u8
+#EXTINF:-1 group-title="PLAYLIST", MTV Live
 http://iptv.prosto.tv:7000/ch128/video.m3u8
-#EXTINF:-1,Citra Dangdut
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 
 <------------ MOVIES ------------
