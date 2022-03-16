@@ -266,6 +266,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/eroz_brebes.m3u8
 #EXTINF:-1 group-title="PLAYLIST", MTV Live
 http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PLAYLIST", DANGDUTTIVI
+http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
 
 <------------ MOVIES ------------
