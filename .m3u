@@ -35,7 +35,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.postimg.cc/W1MS2bzc/Seek-Png-com-hbo-logo-png-2235525.png" group-title="PLAYLIST",HBO
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="PLAYLIST",HBO
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
@@ -362,9 +362,27 @@ https://anevia115.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title="MOVIES",CINEMAX 2
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 
-#EXTINF:-1 tvg-id="StarMoviesAsia.hk" tvg-name="Star Movies Asia" tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="MOVIES",Star Movies
-http://shareext@urtv.cc:80/live/297340/297340/8997.ts?Shareext.ts
-#EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="MOVIES",BOO
-http://shareext@urtv.cc:80/live/297340/297340/8872.ts?Shareext.ts
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",MOVIE_GROUP
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kaytv.hexat.com/logo/flix.jpg" group-title="MOVIE",&FLIX
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/104.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://kaytv.hexat.com/logo/prive.jpg" group-title="MOVIE",&PRIVE
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO (MY)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="MOVIE",SHOWCASE MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIE",SONY PIX
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/298.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png" group-title="MOVIE",STAR MOVIES
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/299.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/YaAM9uAb.png" group-title="MOVIE",STAR MOVIES SELECT
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/300.ts
+
