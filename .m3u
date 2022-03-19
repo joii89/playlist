@@ -63,7 +63,7 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1" group-title=PLAYLIST",CINEMAX
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-name="Cinemax" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title=PLAYLIST",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 
@@ -132,13 +132,13 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="PLAYLIST",AXN
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="PLAYLIST",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="PLAYLIST",HITS
+#EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="PLAYLIST",HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
@@ -147,7 +147,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="PLAYLIST",HITS Movies
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="PLAYLIST",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -157,14 +157,14 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhshYCqc/OIP-2.jpg" group-title="PLAYLIST" ,TVN ASIA
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="PLAYLIST" ,TVN ASIA
 http://tvn.x10.bz/xchannel/master-16.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="MOVIE",Rock_Extreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="PLAYLIST",Rock_Extreme
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="MOVIE",Rock_Enter
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="PLAYLIST",Rock_Enter
 http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -219,12 +219,12 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_small.png" group-title="Movies",Galaxy HD
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="PLAYLIST",Galaxy
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="galaxypremium" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="Movies",Galaxy Premium HD
+#EXTINF:-1 tvg-id="galaxypremium" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="PLAYLIST",Galaxy Premium
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ElshintaTV" tvg-logo="" group-title="PLAYLIST",ElshintaTV
@@ -368,5 +368,3 @@ http://shareext@urtv.cc:80/live/297340/297340/8997.ts?Shareext.ts
 http://shareext@urtv.cc:80/live/297340/297340/8872.ts?Shareext.ts
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",MOVIE_GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,LOCAL MOVIE 90'S
-https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
