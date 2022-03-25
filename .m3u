@@ -30,10 +30,8 @@ https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 http://tvn.x10.bz/xchannel/master-34.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxCFC7VH/image.png" group-title="PLAYLIST", TRANS TV
-http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
-http://tvn.x10.bz/xchannel/master-31.m3u8
 http://rr2.dens.tv/s/s05/index.m3u8
+http://tvn.x10.bz/xchannel/master-31.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
