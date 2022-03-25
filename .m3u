@@ -113,7 +113,7 @@ https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="PLAYLIST", NET
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="PLAYLIST", NET
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
@@ -125,7 +125,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="PLAYLIST", ANTV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="PLAYLIST", ANTV
 http://tvn.x10.bz/xchannel/master-12.m3u8
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
