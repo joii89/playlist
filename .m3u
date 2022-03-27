@@ -186,14 +186,9 @@ http://tvn.x10.bz/xchannel/master-16.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="SCM.MACAN" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/scmlegend.png" group-title="Movies",Star Chinese Movies Legend
-https://on-load.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="PLAYLIST",Rock Extreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="PLAYLIST",Rock Extreme
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="PLAYLIST",Rock Entertainment
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="PLAYLIST",Rock Entertainment
 http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="PLAYLIST",Celestial Movies
