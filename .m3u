@@ -13,13 +13,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="PLAYLIST", SCTV
-http://tvn.x10.bz/xchannel/master-24.m3u8
 http://akudandia.xyz/locs/akudandia-204.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 http://rr2.dens.tv/s/s03/index.m3u8
+http://tvn.x10.bz/xchannel/master-24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -88,8 +88,8 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Vidio)" tvg-logo="https://i.postimg.cc/QdJbT0Sz/c-d.png" group-title="PLAYLIST",Citra Drama
-http://tvn.x10.bz/xchannel/master-2.m3u8
 https://akudandia.xyz/man-prem/cdrama.m3u8
+http://tvn.x10.bz/xchannel/master-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CITRA BIOSKOP (Vidio)" tvg-logo="https://i.postimg.cc/fyQJRf5Z/citrabkp.png" group-title="PLAYLIST",CITRA BIOSKOP
 https://akudandia.xyz/man-prem/cbioskop.m3u8
