@@ -45,6 +45,7 @@ https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="PLAYLIST",HBO
+https://nonton.site:8443/live/1842273725/9237641816/210.m3u8
 https://nonton.site:8443/live/1842273725/9237641816/1496.m3u8
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 https://on-load.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
@@ -54,6 +55,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/cHVgD7mw/789113.png" group-title="PLAYLIST",HBO Family
+https://nonton.site:8443/live/1842273725/9237641816/592.m3u8
 https://nonton.site:8443/live/1842273725/9237641816/30184.m3u8
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
@@ -62,6 +64,7 @@ https://on-load.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://rubbyguntara.github.io/src/img/hbohits.png" group-title="PLAYLIST",HBO Hits
+https://nonton.site:8443/live/1842273725/9237641816/591.m3u8
 https://nonton.site:8443/live/1842273725/9237641816/11492.m3u8
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
@@ -71,6 +74,7 @@ https://on-load.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/RhHSfkzd/pngaaa-com-3837786.png" group-title="PLAYLIST",HBO Signature
+https://nonton.site:8443/live/1842273725/9237641816/873.m3u8
 https://nonton.site:8443/live/1842273725/9237641816/1498.m3u8
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
@@ -80,6 +84,7 @@ https://on-load.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="PLAYLIST" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title=PLAYLIST",CINEMAX
+https://nonton.site:8443/live/1842273725/9237641816/2156.m3u8
 https://nonton.site:8443/live/1842273725/9237641816/30185.m3u8
 https://anevia115.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
