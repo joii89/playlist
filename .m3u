@@ -35,6 +35,7 @@ http://tvn.x10.bz/xchannel/master-31.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="PLAYLIST",GLOBAL TV
+https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://on-load.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
@@ -83,10 +84,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 tvg-id="imc" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/IMC-TV.png" group-title="PLAYLIST",IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="PLAYLIST",Bioskop Indonesia
-https://nonton.site:8443/live/1842273725/9237641816/908.m3u8
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama (Vidio)" tvg-logo="https://i.postimg.cc/QdJbT0Sz/c-d.png" group-title="PLAYLIST",Citra Drama
 https://akudandia.xyz/man-prem/cdrama.m3u8
 http://tvn.x10.bz/xchannel/master-2.m3u8
@@ -125,15 +122,10 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="PLAYLIST", ANTV
-http://tvn.x10.bz/xchannel/master-12.m3u8
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-TVnhxQKqGXw/UXQIIOx7CKI/AAAAAAAAF-w/gn2K-gzsjjg/s1600/tv-one-info-lowongan-kerja-2013-mei-87425624uirgejkg.png" group-title="PLAYLIST", TVONE
-http://tvn.x10.bz/xchannel/master-13.m3u8
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="PLAYLIST",AMERICAN HORRORS
-http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -179,7 +171,6 @@ http://group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="PLAYLIST" ,TVN
-http://tvn.x10.bz/xchannel/master-16.m3u8
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
@@ -235,20 +226,17 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="PLAYLIST",Galaxy
-https://nonton.site:8443/live/1842273725/9237641816/29604.m3u8
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="galaxypremium" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="PLAYLIST",Galaxy Premium
-https://nonton.site:8443/live/1842273725/9237641816/29603.m3u8
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="BERITASATU" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="PLAYLIST",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="PLAYLIST", METROTV
-https://nonton.site:8443/live/1842273725/9237641816/1697.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-url"http://www.transvision.co.id" tvg-logo="https://i.postimg.cc/FzJgQzhf/cnn-vector-graphics-logo-clip-art-design-0f7114082ccb6a651ce2608d2379e007.png" group-title="PLAYLIST",CNN Indonesia
@@ -256,11 +244,6 @@ http://goldenlivektv.com/M*M*K/Channel_Cnnindonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="PLAYLIST",INEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtLipU0_jcRWAAqgu_8hpEzMgBoYm5tcaPAxNl39t_uruqfKJLh9P8suuYc95-_RxLBTlI5gwpEvPHPAx8Mly1tyJ2JhuULWli4eaIo0s1ZnZmC4BS0-ysqVtb48YCGf_BJFg8IQhx86YZjdWUQ79w9kdee0Agvv0zBx7feJ0ektYiyq2674371aSY" group-title="PLAYLIST", CHAMPIONS TV 1
-http://tvn.x10.bz/xchannel/master-6.m3u8
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEicv5vILZVkyZH2XLs_PJ5JYnpzNE2PzyiZjKMcoJAxz_eEb_FlxhAcKLvleAE2CC-u3tfHK4yCmOkStpK2xxjPaGXvlnsEhtbwYxUnIiuf1Jsbv9cMhqMEe8A8R47W4zJrtmjNFyfxKe8KiUR4siJn8CYjsjyPnf_Qvu8LEt36KU9aIzoI96z49t-r" group-title="Sports", CHAMPIONS TV 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
