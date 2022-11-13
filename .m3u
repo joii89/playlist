@@ -308,3 +308,6 @@ http://iptv.prosto.tv:7000/ch128/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PLAYLIST", DANGDUTTIVI
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USAJ30000100K" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="PLAYLIST",TWD Universe (+1h) | Samsung (Look ahead 4hrs in EPG to get info on what's playing now.)
+https://amc-twdtv14-1-us.samsung.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
