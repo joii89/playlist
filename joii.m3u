@@ -124,12 +124,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-name="500" tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="PLAYLIST",HBO
-https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMy4yMTQuMTI4LjE5MSIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvIiwic2lnbmF0dXJlS2V5IjoiOTU3NzIxNTBmMTljMzYyZmIwNDY5OTBiY2ZmMDg1MjEiLCJwcm92aWRlciI6ImN1Ym11IiwidHlwZSI6ImRhc2giLCJleHAiOjE3NDQ3MzExODR9
-
-#EXTINF:-1 tvg-name="501" tvg-name="Cinemax" tvg-logo="https://images.indihometv.com/tvposter/imc.png" group-title="PLAYLIST",Cinemax
-https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMy4yMTQuMTI4LjE5MSIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiY2luZW1heCIsInNpZ25hdHVyZUtleSI6IjYyMzJmNzIxOWQ4ZDBkNjVhMzZjMjhkOTVkY2E1NjY0IiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ0NzMxMTg0fQ
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 #EXTVLCOPT:http-referrer=https://visionplus.id
