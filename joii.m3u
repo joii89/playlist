@@ -15,6 +15,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="PLAYLIST",HBO
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMy4yMTMuNS45NyIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvIiwic2lnbmF0dXJlS2V5IjoiOTU3NzIxNTBmMTljMzYyZmIwNDY5OTBiY2ZmMDg1MjEiLCJwcm92aWRlciI6ImN1Ym11IiwidHlwZSI6ImRhc2giLCJleHAiOjE3NDU0ODgyNTN9
+
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="" group-title="PLAYLIST",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
