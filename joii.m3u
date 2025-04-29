@@ -1,6 +1,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
 
 #EXTM3U url-tvg="https://bit.ly/3itZsSm"
+#EXTM3U url-tvg="https://s.urfan.id/epg""refresh="3600"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
@@ -17,7 +18,6 @@
 
 #EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -35,6 +35,9 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
+
+#EXTINF:-1,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF: -1 group-title="PLAYLIST",HBO family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -231,6 +234,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0Bdk8C/imc.png" group-title="PLAYLIST", IMC
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RcCBhJw/tvn-movie.png" group-title="PLAYLIST", TVN MOVIES
