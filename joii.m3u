@@ -27,6 +27,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiQ2l0cmFCaW9za29wSEQiLCJzaWduYXR1cmVLZXkiOiIyZGYyYzczZThiMGVlZTc0NGRlMTYyOWRiNTY2OTRiYiIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTc0NzkxMDQ4OH0|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiR2FsYXh5LUhEIiwic2lnbmF0dXJlS2V5IjoiNDUyYmVlNDlhMDE0ODEwYTg1YWQ2ZTExMjNhZDRkZGYiLCJwcm92aWRlciI6InZpc2lvbiIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ3OTEwNDg4fQ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiQ2l0cmFCaW9za29wSEQiLCJzaWduYXR1cmVLZXkiOiIyZGYyYzczZThiMGVlZTc0NGRlMTYyOWRiNTY2OTRiYiIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTc0NzkxMDQ4OH0|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF: -1 group-title="PLAYLIST" tv-logo="https://iptvsystem.my.id/img/hbohits.png",HBO HiTS
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
