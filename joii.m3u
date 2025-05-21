@@ -27,18 +27,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiR2FsYXh5LUhEIiwic2lnbmF0dXJlS2V5IjoiNDUyYmVlNDlhMDE0ODEwYTg1YWQ2ZTExMjNhZDRkZGYiLCJwcm92aWRlciI6InZpc2lvbiIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ3OTEwNDg4fQ
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiQ2l0cmFCaW9za29wSEQiLCJzaWduYXR1cmVLZXkiOiIyZGYyYzczZThiMGVlZTc0NGRlMTYyOWRiNTY2OTRiYiIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTc0NzkxMDQ4OH0|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 #EXTINF: -1 group-title="PLAYLIST" tv-logo="https://iptvsystem.my.id/img/hbohits.png",HBO HiTS
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvaGl0cyIsInNpZ25hdHVyZUtleSI6Ijk5ZTU1ZjIwNThhZjcyN2NiZGEyODgyZWUzMWM4YTg0IiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ3OTEwNDg4fQ 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvaGl0cyIsInNpZ25hdHVyZUtleSI6Ijk5ZTU1ZjIwNThhZjcyN2NiZGEyODgyZWUzMWM4YTg0IiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ3OTEwNDg4fQ 
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvaGl0cyIsInNpZ25hdHVyZUtleSI6Ijk5ZTU1ZjIwNThhZjcyN2NiZGEyODgyZWUzMWM4YTg0IiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ3OTEwNDg4fQ
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="PLAYLIST" tvg-logo="https://iptvsystem.my.id/img/hbo.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
