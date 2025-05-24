@@ -137,16 +137,18 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1  tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="PLAYLIST",TRANSTV
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="PLAYLIST",TRANS7
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
@@ -163,13 +165,9 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
@@ -206,6 +204,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xjy8K4N/ROCK-ENTERTAINMENT.png" group-title="PLAYLIST", ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -224,11 +223,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/rockact.png" group-title="PLAYLIST",Rock Action
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF: -1 group-title="PLAYLIST",ETv BIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -295,7 +289,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="PLAYLIST",HBO
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -303,7 +298,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PLAYLIST",HBO Hits
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -312,13 +308,23 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="PLAYLIST",HBO Family
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PLAYLIST",HBO Signature
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="PLAYLIST", Cinemax
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive  
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg", FIGHT SPORTS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
