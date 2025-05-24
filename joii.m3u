@@ -11,6 +11,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
@@ -21,6 +23,8 @@ https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u8 
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="PLAYLIST" tvg-logo="https://iptvsystem.my.id/img/hbohits.png",HBO Hits
@@ -36,6 +40,8 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8 
 https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMy4yMTQuMTQ1LjE4MiIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvZmFtIiwic2lnbmF0dXJlS2V5IjoiOWU3NjlmOGZkMWYxMDExMzVhODYzMWNjYjZhZmMxNmUiLCJwcm92aWRlciI6ImN1Ym11IiwidHlwZSI6ImRhc2giLCJleHAiOjE3NDc3NTMzMjJ9
 
@@ -45,12 +51,17 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
 https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiI0Ny4xMjkuMTIzLjI1MCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiY2luZW1heCIsInNpZ25hdHVyZUtleSI6IjYyMzJmNzIxOWQ4ZDBkNjVhMzZjMjhkOTVkY2E1NjY0IiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzQ3OTEwNDg4fQ
 
 #EXTINF:-1 group-title="PLAYLIST" tv-logo="https://iptvsystem.my.id/img/hbosig.png",HBO Signature
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8 
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505839.m3u8 
 https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMy4yMTQuMTQ1LjE4MiIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiaGJvc2lnIiwic2lnbmF0dXJlS2V5IjoiM2U2MmE0OTY4Y2M1NGQ1ZWNkMTY1ZDVjN2FhYjU5MzkiLCJwcm92aWRlciI6ImN1Ym11IiwidHlwZSI6ImRhc2giLCJleHAiOjE3NDc3NTMzMjJ9
 
