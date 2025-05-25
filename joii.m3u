@@ -347,6 +347,15 @@ https://cloud.hownetwork.xyz/xxx/IwshY3dJRXRvJhIuJ1wJAB1PKHomTxMncw/32/480.m3u8
 
 ======================= RADIO ===============================>
 
+#EXTINF:-1 tvg-logo="https://iili.io/Jmom1FR.png" group-title="RADIO",Kis FM Jakarta 
+https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8 #
+
+EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="Radio",i-Radio Jakarta 
+https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w  
+
+#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="Radio",i-Radio Bandung 
+https://stream.radiojar.com/u6ppe6hswk8uv 
+
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHA0J.png" group-title="RADIO",Hard Rock FM Jakarta 
 https://stream.radiojar.com/7csmg90fuqruv
 
