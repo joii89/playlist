@@ -350,29 +350,17 @@ https://cloud.hownetwork.xyz/xxx/IwshY3dJRXRvJhIuJ1wJAB1PKHomTxMncw/32/480.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHA0J.png" group-title="RADIO",Hard Rock FM Jakarta 
 https://stream.radiojar.com/7csmg90fuqruv
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors 
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="RADIO",Nagaswara POP 
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="RADIO",Nagaswara Dangdut 
-https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8 
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="RADIO",Nagaswara FM 
 https://live.nagaswarafm.com:9900/stream 
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmophJV.png" group-title="RADIO",Prambors Radio 
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=onlineradiobox 
-
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9vcv.png" group-title="RADIO",Delta FM 
-https://stream.cloudmu.id/listen/delta_fm/stream?icy=http 
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmomnGj.png" group-title="RADIO",iRadio Jakarta 
 https://stream.radiojar.com/4ywdgup3bnzuv 
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmomRu1.png" group-title="RADIO",Jak FM 
 https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jmx9QKG.png" group-title="RADIO",Elshinta Jakarta 
+https://stream-ssl.arenastreaming.com:8000/jakarta 
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmomPou.png" group-title="RADIO",Merdeka FM 
 http://streaming.merdekafm.com:8020/;stream.nsv 
@@ -381,6 +369,13 @@ http://streaming.merdekafm.com:8020/;stream.nsv
 http://202.147.199.101:8000/; #EXTINF:-1 tvg-logo="https://iili.io/Jmoyfqb.png" group-title="RADIO",Smart FM Jakarta 
 https://cast2.my-control-panel.com/proxy/radioso3/stream 
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="RADIO",KISI FM Bogor 
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",KISI FM Bogor 
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3 //svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3 a-stream.radioddns.net:8443/jakarta_smoothfm_mp3 
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoyfqb.png" group-title="RADIO",Smart FM Jakarta 
+https://cast2.my-control-panel.com/proxy/radioso3/stream 
 
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:http-reconnect=true
