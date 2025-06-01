@@ -27,10 +27,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="PLAYLIST",HBO Hits TransVision
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO",HBO Hits TransVision
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
@@ -331,12 +331,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 
 <=============================================== Video On Demand =====================================>  
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="Video On Demand" 
+https://cdn.turboviplay.com/data1/6822e5bf2072c/6822e5bf2072c1080.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",Bullet Train Explosion (2025) 
 https://cloud.hownetwork.xyz/xxx/IA0lIiANWjUwMB4iblUuKC4XOicqF1pzcmNCYTRVNDwuJxERJhhDdXUyE30/32/480.m3u8  
 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",Locked (2025) 
 https://cloud.hownetwork.xyz/xxx/LhcqJSAdWnNyY0JhNFU0PC4nERF8G0Z5JjcRLQ/32/480.m3u8  
 
@@ -350,7 +353,7 @@ https://cloud.hownetwork.xyz/xxx/IwshY3dJRXRvJhIuJ1wJAB1PKHomTxMncw/32/480.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Jmom1FR.png" group-title="RADIO",Kis FM Jakarta 
 https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8 #
 
-EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="Radio",i-Radio Jakarta 
+#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="Radio",i-Radio Jakarta 
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w  
 
 #EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="Radio",i-Radio Bandung 
