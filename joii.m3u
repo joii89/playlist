@@ -31,11 +31,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC[INDIHOME]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -413,6 +417,11 @@ https://cdn1.turboviplay.com/data1/6803ffda98d4b/6803ffda98d4b720.m3u8
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://images.app.goo.gl/tCkNiH9mDEV6bLJ77",Holy Night Demon Hunter
 https://cdn3.turboviplay.com/data1/683be0efca090/683be0efca090720.m3u8
 https://s1.lk21static.buzz/assets/stopjudi/3.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://images.app.goo.gl/tCkNiH9mDEV6bLJ77",Warefare
+https://cdn3.turboviplay.com/data1/683be0efca090/683be0efca090720.m3u8
+
 
 ======================= RADIO ===============================>
 
