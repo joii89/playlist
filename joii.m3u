@@ -205,6 +205,7 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DVNxZjx/ROCK-ACTION.png" group-title="PLAYLIST", ROCK ACTION
+https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
 https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
