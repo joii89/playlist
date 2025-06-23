@@ -10,12 +10,14 @@
 
 #EXTM3U
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=50
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="IMC" tvg-name="IMC" group-title="PLAYLIST" tvg-logo="https://iptvsystem.my.id/img/imc.png",IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
@@ -244,7 +246,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trill.png" group-title="PLAYLIST",Thrill d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trill.png" group-title="PLAYLIST",Thrill
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
@@ -255,12 +257,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 http://opplex.ch:8080/live/10071975/10071975/350941.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0Bdk8C/imc.png" group-title="PLAYLIST", IMC
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
-https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RcCBhJw/tvn-movie.png" group-title="PLAYLIST", TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -533,6 +529,10 @@ https://cloud.hownetwork.xyz/xxx/MR0qPCANWjQsJRggJx07PS4XLTdoS0dzd3wAKSFUOgcaJy1
 https://cdn4.turboviplay.com/data1/68071f2736f17/68071f2736f17720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",Captain America: Brave New World
+https://cloud.hownetwork.xyz/xxx/8a4df659ae3306abb98f010f229773bc/25/480.m3u8 https://seneng.org/v/driveid-198147-webrip-1080-terbit21-com-captain-america-brave-new-world-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 https://cdn1.turboviplay.com/data1/67d17c59d3c61/67d17c59d3c61720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="",Xxx
 https://o76terg4m2.guardstorage.net/hls_3/5wcG03xHhmRSYrmCrOGF6Fds6kYSvx0oeBa1ooS3C-E8RKRSPbCPPhX-CyEcgDnZ9JraNLXRV9YuGGsVBNIcsA/master.m3u8?sig=9eEklNe9iDZKTAS2FGFPtQ&expires=1748873717
 
@@ -592,44 +592,48 @@ https://www.googleapis.com/drive/v3/files/1aVg-jglDJy74On_1F1ZgAdzrfcOmEwnJ?alt=
 
 #EXTM3U
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id=\"\" tvg-name=\"Cnn Indonesia\" tvg-logo=\"https://i.postimg.cc/g2m0gtvy/bystreamtvmax.jpg\" group-title=\"VOD INDO\",1. freeAjah
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id=\"\" tvg-logo=\"https://i.postimg.cc/zX7H49WS/kkndidesapenari.jpg\" group-title=\"VOD INDO\",KKN di Desa Penari
-#EXTVLCOPT:http-referrer=http://172.96.161.72/","5203":"http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 group-title=\"VOD INDO\",Ashiap Man
-https://www.googleapis.com/drive/v3/files/1fdd5aeRsr9hWFLFOTi6sb1LjWKiRgElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title=\"VOD INDO\",Lara Ati
+#EXTINF:-1 group-title="VOD Indo",Lara Ati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title=\"VOD INDO\",Satria Dewa: Gatotkaca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1dseWjhS3mKLOwG1tbwKDVHIPlAnYbMZ6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title=\"VOD INDO\",Before I Met You
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title=\"VOD INDO\",Before, Now & Then (Nana)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1JUL4w_2mbSR88vpNac7ieHH_uAPJn3_O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title=\"VOD INDO\",Keluarga Cemara 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1H3N0wVsxKpkHSLK6kui0m5eGeOjZN5-4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title=\"VOD INDO\",Ngeri-Ngeri Sedap
+#EXTINF:-1 group-title="VOD Indo",Ngeri-Ngeri Sedap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title=\"VOD INDO\",Sinar Untuk Genta
+#EXTINF:-1 group-title="VOD Indo",Sinar Untuk Genta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1HcdKPajIAw3MgdvrNJ1v2e-dL-6ra3ei?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5221":"#EXTINF:-1 group-title=\"VOD INDO\",Cinta Subuh","5222":"https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5223":"#EXTINF:-1 group-title=\"VOD INDO\",Love in Game","5224":"https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5225":"#EXTINF:-1 group-title=\"VOD INDO\",Preman: Silent Fury","5226":"https://www.googleapis.com/drive/v3/files/1hz-lMeKA9fil5YQq56kmMabmy03KApuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5227":"#EXTINF:-1 group-title=\"VOD INDO\",Gara-Gara Warisan","5228":"https://www.googleapis.com/drive/v3/files/1G4VOoFYs0VESfMpMEtVeRNyCu8C4SWXE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5229":"#EXTINF:-1 group-title=\"VOD INDO\",48 Jam untuk Indah","5230":"https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5231":"#EXTINF:-1 group-title=\"VOD INDO\",Tiga Janda Melawan Dunia","5232":"https://www.googleapis.com/drive/v3/files/1seAfQ6hZRbzYdo3gugjqtmYja1dXYWqs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5233":"#EXTINF:-1 group-title=\"VOD INDO\",Perjalanan Pertama","5234":"https://www.googleapis.com/drive/v3/files/10BAw1AoK9DaHaBKJCy32GnTxSqyo_pez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5235":"#EXTINF:-1 group-title=\"VOD INDO\",Mertua vs. Menantu","5236":"https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5237":"#EXTINF:-1 group-title=\"VOD INDO\",I Need You Baby","5238":"https://www.googleapis.com/drive/v3/files/1X8PXFkfaOovmBvIYlF_tR5PpNd1srG7p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5239":"#EXTINF:-1 group-title=\"VOD INDO\",Garis Waktu","5240":"https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5241":"#EXTINF:-1 group-title=\"VOD INDO\",Before Now & Then Nana","5242":"https://www.googleapis.com/drive/v3
+https://www.googleapis.com/drive/v3/files/1HcdKPajIAw3MgdvrNJ1v2e-dL-6ra3ei?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+EXTINF:-1 group-title="VOD Indo",Cinta Subuh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Love in Game
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Preman: Silent Fury
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1hz-lMeKA9fil5YQq56kmMabmy03KApuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Gara-Gara Warisan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1G4VOoFYs0VESfMpMEtVeRNyCu8C4SWXE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",48 Jam untuk Indah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Tiga Janda Melawan Dunia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1seAfQ6hZRbzYdo3gugjqtmYja1dXYWqs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Perjalanan Pertama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/10BAw1AoK9DaHaBKJCy32GnTxSqyo_pez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title=\"VOD INDO\",Mertua vs. Menantu","5236":"https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5237":"#EXTINF:-1 group-title=\"VOD INDO\",I Need You Baby","5238":"https://www.googleapis.com/drive/v3/files/1X8PXFkfaOovmBvIYlF_tR5PpNd1srG7p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5239":"#EXTINF:-1 group-title=\"VOD INDO\",Garis Waktu","5240":"https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5241":"#EXTINF:-1 group-title=\"VOD INDO\",Before Now & Then Nana","5242":"https://www.googleapis.com/drive/v3
+
 
 ======================= RADIO ===============================>
 
