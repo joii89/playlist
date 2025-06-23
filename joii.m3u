@@ -570,6 +570,11 @@ https://s1.lk21static.buzz/assets/stopjudi/3.mp4
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="", Gladiator II
 https://cdn3.turboviplay.com/data1/6806769beb304/6806769beb304480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="VOD" tvg-logo="",
+https://sendeyo.com/updownload/file/script/74c7957d8af60d032e87ec410252368a.txt
+
+
 ======================= RADIO ===============================>
 
 
