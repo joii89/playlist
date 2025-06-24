@@ -297,6 +297,10 @@ http://opplex.ch:8080/live/10071975/10071975/350963.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+#EXTINF:-1 group-title="Playlist" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="PLAYLIST", CINEMAX Transvision
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -425,9 +429,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/13/Absolution.
 #EXTINF:-1 tvg-id="" tvg-name="Christmas at Plumhill Manor" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/p4qwWOpL3qlbL4TM4MdV8oQebEd.jpg" group-title="Video On Demand", Christmas at Plumhill Manor 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/12/Christmas.at.Plumhill.Manor.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gladiator II" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="Video On Demand", Gladiator II
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/11/Gladiator.II.2024.mp4/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Red O2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/n9eNX3F6qEoNpPId0Nj29QLbYmE.jpg",Darkest Miriam
@@ -444,8 +445,28 @@ https://cloud.hownetwork.xyz/xxx/KwxkKCAcEzJvY0d-dh0hPSAcJREdJkF0cTQSKnIF/32/480
 https://cdn1.turboviplay.com/data1/6804623d3481f/6804623d3481f720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg",iHostage (2025) https://cloud.hownetwork.xyz/xxx/KxAmPTEYECRvY0d-dh0hPSAcJREdJhQgemBDf3cH/32/480.m3u8 https://cdn1.turboviplay.com/data1/680447636181b/680447636181b720.m3u8  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8R8cOSJ6Z4zH4TIbZY5va9OGgr7.jpg",Strange Memories (2025) https://cloud.hownetwork.xyz/xxx/MQw7LyseEmwvNBojMVkzK29KeXxwVAAkIDUbExtvN2h6GXB3J0E/32/480.m3u8 https://cdn1.turboviplay.com/data1/680405a88e319/680405a88e319720.m3u8  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oYTGM9VGCVkF44QViitVpIOw3wG.jpg",Sampung Utos Kay Josh (2025) https://cloud.hownetwork.xyz/xxx/MRkkPjAXEGw3JRg_bls3IW8SJj0tVEVxcGRaOyZSMjQdIBZ9dkxGcXFoFQ/32/480.m3u8 https://cdn1.turboviplay.com/data1/6803ffda98d4b/6803ffda98d4b720.m3u8  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",Chhaava (2025) https://cloud.hownetwork.xyz/xxx/IRAhLyQPFmxwYUV5bkczOiYUFhYaQBN4JjRCKic/32/480.m3u8 https://cdn1.turboviplay.com/data1/68027db0ce5df/68027db0ce5df720.m3u8  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fBzwzRb4r3qNqOOwPsyyKfoUNq5.jpg",Gothic Slayers (2025) https://cloud.hownetwork.xyz/xxx/JRc9JiwaWjIuMA4pMUN7anJKfGMyHBUlLg4vE3FSb2t2QSws/32/480.m3u8 https://cdn1.turboviplay.com/data1/68026f2585e10/68026f2585e10720.m3u8  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg",🟠 The Accountant 2 (2025) https://s9dz.mooringcarmel.sbs/v4/m9/5wikyj/cf-master.txt?v=1744866994|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg",🟠 Rule Breakers (2025) https://sojg.mooringcarmel.sbs/v4/ty/rq1xh9/cf-master.txt?v=1744822539|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qysOAJmH1iZgIPAot2OYt782dQ0.jpg",Distort (2025)
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg",iHostage
+https://cloud.hownetwork.xyz/xxx/KxAmPTEYECRvY0d-dh0hPSAcJREdJhQgemBDf3cH/32/480.m3u8 https://cdn1.turboviplay.com/data1/680447636181b/680447636181b720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8R8cOSJ6Z4zH4TIbZY5va9OGgr7.jpg",Strange Memories
+https://cloud.hownetwork.xyz/xxx/MQw7LyseEmwvNBojMVkzK29KeXxwVAAkIDUbExtvN2h6GXB3J0E/32/480.m3u8 https://cdn1.turboviplay.com/data1/680405a88e319/680405a88e319720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oYTGM9VGCVkF44QViitVpIOw3wG.jpg",Sampung Utos Kay Josh
+https://cloud.hownetwork.xyz/xxx/MRkkPjAXEGw3JRg_bls3IW8SJj0tVEVxcGRaOyZSMjQdIBZ9dkxGcXFoFQ/32/480.m3u8 https://cdn1.turboviplay.com/data1/6803ffda98d4b/6803ffda98d4b720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",Chhaava
+https://cloud.hownetwork.xyz/xxx/IRAhLyQPFmxwYUV5bkczOiYUFhYaQBN4JjRCKic/32/480.m3u8 https://cdn1.turboviplay.com/data1/68027db0ce5df/68027db0ce5df720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fBzwzRb4r3qNqOOwPsyyKfoUNq5.jpg",Gothic Slayers
+https://cloud.hownetwork.xyz/xxx/JRc9JiwaWjIuMA4pMUN7anJKfGMyHBUlLg4vE3FSb2t2QSws/32/480.m3u8 https://cdn1.turboviplay.com/data1/68026f2585e10/68026f2585e10720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg",🟠 The Accountant 2 (2025) https://s9dz.mooringcarmel.sbs/v4/m9/5wikyj/cf-master.txt?v=1744866994|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg",🟠 Rule Breakers (2025) https://sojg.mooringcarmel.sbs/v4/ty/rq1xh9/cf-master.txt?v=1744822539|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qysOAJmH1iZgIPAot2OYt782dQ0.jpg",Distort (2025)
 https://cloud.hownetwork.xyz/xxx/JhE6OioLA2xwYUV5bkczOiYUFhYaQEB2IWBALiA/32/480.m3u8 https://cdn1.turboviplay.com/data1/67ff7592092d6/67ff7592092d6720.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozillne" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="Video On Demand", Red One
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Red.One.2024.mp4/tracks-v1a1/mono.m3u8  
 
@@ -611,15 +632,21 @@ https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1hz-lMeKA9fil5YQq56kmMabmy03KApuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD Indo",Gara-Gara Warisan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1G4VOoFYs0VESfMpMEtVeRNyCu8C4SWXE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 group-title="VOD Indo",48 Jam untuk Indah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title=\"VOD INDO\",Mertua vs. Menantu","5236":"https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5237":"#EXTINF:-1 group-title=\"VOD INDO\",I Need You Baby","5238":"https://www.googleapis.com/drive/v3/files/1X8PXFkfaOovmBvIYlF_tR5PpNd1srG7p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5239":"#EXTINF:-1 group-title=\"VOD INDO\",Garis Waktu","5240":"https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","5241":"#EXTINF:-1 group-title=\"VOD INDO\",Before Now & Then Nana","5242":"https://www.googleapis.com/drive/v3
+#EXTINF:-1 group-title="VOD Indo",Mertua vs. Menantu",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",I Need You Baby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/1X8PXFkfaOovmBvIYlF_tR5PpNd1srG7p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Garis Waktu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 ======================= RADIO ===============================>
