@@ -452,14 +452,8 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Conclave.20
 #EXTINF:-1 tvg-id="" tvg-name="Nutcrackers" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="Video On Demand", Nutcrackers
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Nutcrackers.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Santastein" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/dOLDjeHdCrEalwyWTU5uC7j4bz1.jpg" group-title="Video On Demand", Santastein
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Santastein.2024.mp4/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Here" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/k4rrMs9L5fiW1447LTQsgsDrvdE.jpg" group-title="Video On Demand", Here
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/18/Here.2024.mp4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dear Santa" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/kYp5C3oIHV98E5NnObCuadLyOml.jpg" group-title=""Video On Demand", Dear Santa
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/17/Dear.Santa.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Our Little Secret" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/7isqmWUryG2xksrw0E75m3vYTFd.jpg" group-title="Video On Demand", Our Little Secret
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/17/Our.Little.Secret.2024.mp4/tracks-v1a1/mono.m3u8
@@ -518,11 +512,11 @@ https://cloud.hownetwork.xyz/xxx/IRAhLyQPFmxwYUV5bkczOiYUFhYaQBN4JjRCKic/32/480.
 https://cloud.hownetwork.xyz/xxx/JRc9JiwaWjIuMA4pMUN7anJKfGMyHBUlLg4vE3FSb2t2QSws/32/480.m3u8 https://cdn1.turboviplay.com/data1/68026f2585e10/68026f2585e10720.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg",🟠 The Accountant 2
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AvAjlqg8gOSSfKnrSFE0yxlyZD4.jpg", The Accountant 2
 https://s9dz.mooringcarmel.sbs/v4/m9/5wikyj/cf-master.txt?v=1744866994|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg",🟠 Rule Breakers
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg", Rule Breakers
 https://sojg.mooringcarmel.sbs/v4/ty/rq1xh9/cf-master.txt?v=1744822539|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -731,6 +725,15 @@ https://www.googleapis.com/drive/v3/files/1X8PXFkfaOovmBvIYlF_tR5PpNd1srG7p?alt=
 #EXTINF:-1 group-title="VOD Indo",Garis Waktu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Serigala Terakhir
+https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Kadet 1947
+https://www.googleapis.com/drive/v3/files/1Y3PV8NxfkU_4VBWKqMACvpRVEuqB_EF6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="VOD Indo",Pertaruhan
+https://www.googleapis.com/drive/v3/files/1qOpPKObAVVwLpG5QB_Ttd6PbqmuWpugf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 ======================= RADIO ===============================>
