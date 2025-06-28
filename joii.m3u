@@ -53,22 +53,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="PLAYLIST",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="PLAYLIST",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="PLAYLIST",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -287,7 +271,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8NJPsHg/hits-movie.png" group-title="PLAYLIST" tvg-logo="https://images.app.goo.gl/fDrZyZW1WxSikYYGA, HITS MOVIE
+#EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://images.app.goo.gl/fDrZyZW1WxSikYYGA", HITS MOVIE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -308,6 +292,22 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="PLAYLIST",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="PLAYLIST",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
@@ -561,8 +561,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/07/My.Old.Ass.
 
 #EXTINF:-1 tvg-id="" tvg-name="72 Hours" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/xupvHBQ9EJW8em6biZw0khquRh5.jpg" group-title="Video On Demand", 72 Hours
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/03/72.Hours.2024.mp4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Venom: The Last Dance" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/10/k42Owka8v91trK1qMYwCQCNwJKr.jpg" group-title="Video On Demand", Venom: The Last Dance
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/04/Venom.The.Last.Dance.2024.mp4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Canary Black" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/10/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg" group-title="Video On Demand", Canary Black
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/20/Canary.Black.2024.mp4/tracks-v1a1/mono.m3u8
 
@@ -933,47 +935,36 @@ https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=
 https://www.googleapis.com/drive/v3/files/1JUL4w_2mbSR88vpNac7ieHH_uAPJn3_O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Keluarga Cemara 2
-
 https://www.googleapis.com/drive/v3/files/1H3N0wVsxKpkHSLK6kui0m5eGeOjZN5-4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Ngeri-Ngeri Sedap
-
 https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Sinar Untuk Genta
-
 https://www.googleapis.com/drive/v3/files/1HcdKPajIAw3MgdvrNJ1v2e-dL-6ra3ei?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Cinta Subuh
-
 https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Love in Game
-
 https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Preman: Silent Fury
-
 https://www.googleapis.com/drive/v3/files/1hz-lMeKA9fil5YQq56kmMabmy03KApuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Gara-Gara Warisan
-
 https://www.googleapis.com/drive/v3/files/1G4VOoFYs0VESfMpMEtVeRNyCu8C4SWXE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",48 Jam untuk Indah
-
 https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Tiga Janda Melawan Dunia
-
 https://www.googleapis.com/drive/v3/files/1seAfQ6hZRbzYdo3gugjqtmYja1dXYWqs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Perjalanan Pertama
-
 https://www.googleapis.com/drive/v3/files/10BAw1AoK9DaHaBKJCy32GnTxSqyo_pez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Mertua vs. Menantu
-
 https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",I Need You Baby
@@ -986,23 +977,18 @@ https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=
 https://www.googleapis.com/drive/v3/files/1SjvXwBeZaZNL1eFIUVOTDx_b___twIa2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Hayya 2: Hope, Dream and Reality
-
 https://www.googleapis.com/drive/v3/files/1Rzk7pEeb7GE8LfvxAgkgDL1Uk15cqBqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Backstage
-
 https://www.googleapis.com/drive/v3/files/1Vs46mDw0DKYu0jquK7cMjisL0032AO5W?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Serigala Terakhir
-
 https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Kadet 1947
-
 https://www.googleapis.com/drive/v3/files/1Y3PV8NxfkU_4VBWKqMACvpRVEuqB_EF6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Pertaruhan
-
 https://www.googleapis.com/drive/v3/files/1qOpPKObAVVwLpG5QB_Ttd6PbqmuWpugf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",The Last Prank
@@ -1027,23 +1013,18 @@ https://www.googleapis.com/drive/v3/files/1OtvcGMbBXa8q70V7N_5-hwOOPeMIshSt?alt=
 https://www.googleapis.com/drive/v3/files/1Ls3lv2pcrKL-MTYMKIAGlT7KdN2PxnfZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Kambodja
-
 https://www.googleapis.com/drive/v3/files/1Ac_LpkS9ekuxK8fWG8FvcKXMY6trZ2ln?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Wedding Agreement
-
 https://www.googleapis.com/drive/v3/files/16Hd7392c8_D0CsGI8X6feUVNVeFEYohb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Vidkill
-
 https://www.googleapis.com/drive/v3/files/1UHRQQ6p_gkTKL2sLUTvm4-vPTIAkRUDs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Merindu Cahaya De Amstel
-
-https://www.googleapis.com/drive/v3/files/1O67axAjHAnlRaEq-KWV97_ZbRpGnEWWD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+https://www.googleapis.com/drve/v3/files/1O67axAjHAnlRaEq-KWV97_ZbRpGnEWWD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Dear Nathan: Thank You Salma
-
 https://www.googleapis.com/drive/v3/files/1IdL3S7F_X91GtngUiliWJoYNrkkq9H2w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Teka-Teki Tika
@@ -1103,7 +1084,6 @@ https://www.googleapis.com/drive/v3/files/1J0LV1GPWyp29SZAxttrCuztGqTz_sDNZ?alt=
 https://www.googleapis.com/drive/v3/files/1gpPoR9BdBqFFWz-6svXld4nxRZC4nJhG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Enam Batang
-
 https://www.googleapis.com/drive/v3/files/1vhua-3To0ZvwT8uGPm-AB9Tnf1w0aQYI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Aku Bukan Jodohnya
@@ -1218,57 +1198,62 @@ https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://seraphinapl.com/stream/eYjqnY0Hj-YX0ZJbfCa1Pg/hjkrhuihghfvu/1750826797/8197492/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="VOD LOKAL",Garis Waktu
+#EXTINF:-1 group-title="VOD INDO",Garis Waktu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD LOKAL",Serigala Terakhir
+#EXTINF:-1 group-title="VOD INDO",Serigala Terakhir
 https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",The Shadow Stray
 https://hlswish.com/stream/PaMFhi06Jf9sfIy4SMNksg/kjhhiuahiuhgihdf/1750828088/25941549/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="VOD LOKAL",Petaka Gunung Gede
+#EXTINF:-1 group-title="VOD INDO",Petaka Gunung Gede
 https://movearnpre.com/stream/KEH2WKjA4DULrT6Hzm9i7A/hjkrhuihghfvu/1750827718/26702917/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/3cba94fb3fa68381fd19f47a6c7976cc.jpg" tvg-name="Fireworks,Fireworks
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/3cba94fb3fa68381fd19f47a6c7976cc.jpg" tvg-name="Fireworks,Fireworks
 https://ktpremium.com:443/movie/A0112/8544/925339.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/bce6cf5dc1ef84f127854c06f05a8650.jpg", Kun Ana Wa Anta,Kun
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/bce6cf5dc1ef84f127854c06f05a8650.jpg", Kun Ana Wa Anta,Kun
 https://ktpremium.com:443/movie/A0112/8544/925965.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/f9f6a029bcb6b7e44e7b370d259685b6.jpg" tvg-name="Headhunter (2023) [BM]" ,Headhunter (2023) [BM]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/f9f6a029bcb6b7e44e7b370d259685b6.jpg" tvg-name="Headhunter (2023) [BM]" ,Headhunter (2023) [BM]
 https://ktpremium.com:443/movie/A0112/8544/926209.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLkviJkau1cRMCoAa06R1gkH2Hn.jpg" tvg-name="Waktu Maghrib (2023)[BM]" ,Waktu Maghrib (2023)[BM]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLkviJkau1cRMCoAa06R1gkH2Hn.jpg" tvg-name="Waktu Maghrib (2023)[BM]" ,Waktu Maghrib (2023)[BM]
 https://ktpremium.com:443/movie/A0112/8544/926217.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QvxIbiWuWXUbOhXAsAyYZUVfke.jpg" tvg-name="Ranah 3 Warna (2022) [ENG]" ,Ranah 3 Warna (2022) [ENG]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QvxIbiWuWXUbOhXAsAyYZUVfke.jpg" tvg-name="Ranah 3 Warna (2022) [ENG]" ,Ranah 3 Warna (2022) [ENG]
 https://ktpremium.com:443/movie/A0112/8544/926221.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/dfb5df765342d00964c09c6928b7702a.jpg" tvg-name="Bismillah Kunikahi Suamimu (2023) [NOSUB]" ,Bismillah Kunikahi Suamimu (2023) [NOSUB]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/dfb5df765342d00964c09c6928b7702a.jpg" tvg-name="Bismillah Kunikahi Suamimu (2023) [NOSUB]" ,Bismillah Kunikahi Suamimu (2023) [NOSUB]
 https://ktpremium.com:443/movie/A0112/8544/926692.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/b8de2c6419f51fb0e6fd9cceed1ee9d1.jpg" tvg-name="Hidayah (2023)[ENG]" ,Hidayah (2023)[ENG]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/b8de2c6419f51fb0e6fd9cceed1ee9d1.jpg" tvg-name="Hidayah (2023)[ENG]" ,Hidayah (2023)[ENG]
 https://ktpremium.com:443/movie/A0112/8544/926693.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/d0aa44d8d01beb674447f70d5d9b3b92.jpg" tvg-name="Imaginur (2023)[BM]" ,Imaginur (2023)[BM]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/d0aa44d8d01beb674447f70d5d9b3b92.jpg" tvg-name="Imaginur (2023)[BM]" ,Imaginur (2023)[BM]
 https://ktpremium.com:443/movie/A0112/8544/926694.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://portalsemakan.com/wp-content/uploads/2023/07/361248905_657057309802192_1947969331123126742_n.jpeg" tvg-name="Anugerah Bintang Popular BH (2023)" ,Anugerah Bintang Popular BH (2023)
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://portalsemakan.com/wp-content/uploads/2023/07/361248905_657057309802192_1947969331123126742_n.jpeg" tvg-name="Anugerah Bintang Popular BH (2023)" ,Anugerah Bintang Popular BH (2023)
 https://ktpremium.com:443/movie/A0112/8544/927644.mp4
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/dfdf1def987301dd89c1ea306ec5f3ed.jpg" tvg-name="Kau Pilih Siapa? (2023)[NOSUB]" ,Kau Pilih Siapa? (2023)[NOSUB]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/dfdf1def987301dd89c1ea306ec5f3ed.jpg" tvg-name="Kau Pilih Siapa? (2023)[NOSUB]" ,Kau Pilih Siapa? (2023)[NOSUB]
 https://ktpremium.com:443/movie/A0112/8544/928098.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/fed60ab622afe7783006d8da1332fe39.jpg" tvg-name="Stone Turtle (2022) [BM]" ,Stone Turtle (2022) [BM]
+
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/fed60ab622afe7783006d8da1332fe39.jpg" tvg-name="Stone Turtle (2022) [BM]" ,Stone Turtle (2022) [BM]
 https://ktpremium.com:443/movie/A0112/8544/928391.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/25eb1d9247ac27861f7ce51f26a954c3.jpg" tvg-name="Dunia Tanpa Suara (2023) [ENG]" ,Dunia Tanpa Suara (2023) [ENG]
+
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/25eb1d9247ac27861f7ce51f26a954c3.jpg" tvg-name="Dunia Tanpa Suara (2023) [ENG]" ,Dunia Tanpa Suara (2023) [ENG]
 https://ktpremium.com:443/movie/A0112/8544/928396.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/4de05b5a8c5fe8db2e72a407548fca93.jpg" tvg-name="Tainted Soul (2022)[BM]" ,Tainted Soul (2022)[BM]
+
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/4de05b5a8c5fe8db2e72a407548fca93.jpg" tvg-name="Tainted Soul (2022)[BM]" ,Tainted Soul (2022)[BM]
 https://ktpremium.com:443/movie/A0112/8544/928736.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dyXheU12Dv2GrhnjPQ3iIZG3ne.jpg" tvg-name="Losmen Melati (2023)[BM]" ,Losmen Melati (2023)[BM]
+
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dyXheU12Dv2GrhnjPQ3iIZG3ne.jpg" tvg-name="Losmen Melati (2023)[BM]" ,Losmen Melati (2023)[BM]
 https://ktpremium.com:443/movie/A0112/8544/929226.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://ktpremium.com:2095/images/77b198b0c27d502f519c8956e19d8cd4.jpg" tvg-name="Alena: Anak Ratu Iblis (2023)[NOSUB]" ,Alena: Anak Ratu Iblis (2023)[NOSUB]
+
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/77b198b0c27d502f519c8956e19d8cd4.jpg" tvg-name="Alena: Anak Ratu Iblis (2023)[NOSUB]" ,Alena: Anak Ratu Iblis (2023)[NOSUB]
 https://ktpremium.com:443/movie/A0112/8544/929400.mp4
 
 
