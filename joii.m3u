@@ -10,7 +10,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Playlist"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://ima
+#EXTINF:-1 group-title="Playlist" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_imc_small.png", IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -186,7 +186,6 @@ http://opplex.tv:8080/live/mother/mother/350906.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
@@ -914,34 +913,23 @@ https://
 
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zX7H49WS/kkndidesapenari.jpg" group-title="VOD INDO",KKN di Desa Penari
-
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
-
 http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
 
-
-
 #EXTINF:-1 group-title="VOD INDO",Ashiap Man
-
 https://www.googleapis.com/drive/v3/files/1fdd5aeRsr9hWFLFOTi6sb1LjWKiRgElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Lara Ati
-
 https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Satria Dewa: Gatotkaca
-
 https://www.googleapis.com/drive/v3/files/1dseWjhS3mKLOwG1tbwKDVHIPlAnYbMZ6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Before I Met You
-
 https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Before, Now & Then (Nana)
-
 https://www.googleapis.com/drive/v3/files/1JUL4w_2mbSR88vpNac7ieHH_uAPJn3_O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Keluarga Cemara 2
