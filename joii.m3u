@@ -40,8 +40,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpdhttps://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="PLAYLIST",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -432,15 +434,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 <=============================================== Video On Demand =====================================>  
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71piCu%2BSGQL._AC_SY500_.jpg", Spiderman 1 2002
+#EXTINF:-1 tvg-id="" tvg-name="" group-title=Video On Demand" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71piCu%2BSGQL._AC_SY500_.jpg", Spiderman 1 2002
 https://www.googleapis.com/drive/v3/files/1REkPOSU-1fLR1q4_9yS-23aQcUCUPkpw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="https://worldviewbibleversus.files.wordpress.com/2015/03/spider-man-2.jpg", Spiderman 2 2004
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Video On Demand" tvg-logo="https://worldviewbibleversus.files.wordpress.com/2015/03/spider-man-2.jpg", Spiderman 2 2004
 https://www.googleapis.com/drive/v3/files/1Hqh4fOjRAA2b2KQK7HqDNmUceQhyFqYC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/Spider-Man_3%2C_International_Poster.jpg", Spiderman 3 2007
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Video On Demand" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/Spider-Man_3%2C_International_Poster.jpg", Spiderman 3 2007
 https://www.googleapis.com/drive/v3/files/1s87x5Afctnrvh_vbl_M3taQ70QX--nGh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand", Bad Boys Ride Or Die
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/10/Bad.Boys.Ride.or.Die.2024.mp4/tracks-v1a1/mono.m3u8
@@ -1295,6 +1296,120 @@ https://ktpremium.com:443/movie/A0112/8544/929226.mp4
 #EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/77b198b0c27d502f519c8956e19d8cd4.jpg" tvg-name="Alena: Anak Ratu Iblis (2023)[NOSUB]" ,Alena: Anak Ratu Iblis (2023)[NOSUB]
 https://ktpremium.com:443/movie/A0112/8544/929400.mp4
 
+=======================MOVIE INDONESIA HOROR=======================
+
+#EXTM3U
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",40 Hari Bangkitnya Pocong
+https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/23002700.jpg" group-title="MOVIE INDONESIA HOROR",Para Betina Pengikut Iblis (2023)
+https://drive.dubbindo.xyz/upload/videos/2023/06/B5RfRxsexxP552xjEgbY_16_5f71812d73c1c5411a88ea9317be76e5_video_720p_converted.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" group-title="MOVIE INDONESIA HOROR",Anak Titipan Setan (2023)
+https://drive.dubbindo.xyz/upload/videos/2023/06/cHgBLojGJnGfIWs9kCRa_21_9f59c4a13f3bea347d52089b4b908303_video_720p_converted.mp4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Ada Hantu 2
+https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Aku Lupa Aku Luka
+https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Alas Pati: Hutan Mati
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Bayi Ajaib Remastered
+https://www.googleapis.com/drive/v3/files/1uOeeERiBK6HmP2p3IUZdO4UryoIRxfaK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Bayi Gaib
+https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Belenggu
+https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Bisikan Jenazah
+https://www.googleapis.com/drive/v3/files/1uQmtHvz-9LA1sqebvqRyQQb_wFe3zPuc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Ghost Writer 2
+https://www.googleapis.com/drive/v3/files/1pWUjQe4Ci4oDUjexU3gn6Eqr4Esyvy9g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Hompimpa
+https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Iblis Dalam Kandungan
+https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Ikut Aku ke Neraka
+https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Inang
+https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Ivanna
+https://www.googleapis.com/drive/v3/files/1eRPJKF_bTNQwFjysfWMocIRrljPE5cOS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Jailangkung: Sandekala
+https://www.googleapis.com/drive/v3/files/1uEJYxgtja39Y28qVe0pHB6PE-NT1EMF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Jangan Sendirian
+https://www.googleapis.com/drive/v3/files/1WbDu0f9Si849LurfVac0RYE6dqoQKHbz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Kabut
+https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Kain Kafan Hitam
+https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Kamu Tidak Sendiri
+https://www.googleapis.com/drive/v3/files/1lRqQkhcotCpvKns1QQScK9kTo1XXh3Z9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Keramat 2: Caruban Larang
+https://www.googleapis.com/drive/v3/files/1wPGfEwanoGGGXagWbkcNY9NQYCTIa_xu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",KKN di Desa Penari
+https://www.googleapis.com/drive/v3/files/1SQS1qRI8r6vzizuvIN_y744Ie6QnTUgR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Kuntilanak 3
+https://www.googleapis.com/drive/v3/files/1RflA9Ccn9B47BN9eGLlzfkY4l5F9ZECH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Kuyang the Movie
+https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Makmum
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Makmum2
+https://www.googleapis.com/drive/v3/files/1PNkdNPFgVvZiterhI0MHOPnZShBIyrYX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Menjelang Magrib
+https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Mumun
+https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Nini Thowok
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Pelukis Hantu
+https://www.googleapis.com/drive/v3/files/1CCokopgK7HYABVTHnSgv2KAqeaxQa7Af?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Pengabdi Setan
+https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Pengabdi Setan 2: Communion
+https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Perempuan Bergaun Merah
+https://www.googleapis.com/drive/v3/files/1frrGRk2EJaa7u8BvZge2Rt6zdyarv8yU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Potret Mimpi Buruk
+https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Qodrat
+https://www.googleapis.com/drive/v3/files/1AYDqpdkxAaCjo27TwJH0IpXO9pCPHHW0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Qorin
+https://www.googleapis.com/drive/v3/files/1FpG6ZxuaviQa_eAhVjMRo3bXxWBiU1oa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Ratu Ilmu Hitam
+https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Rumah Dara
+https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Rumah Kaliurang
+https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Suster Keramas
+https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Suzzanna: Bernapas Dalam Kubur
+https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",The Doll 3
+https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",The Returning
+https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",The Sacred Riana 2: Bloody Mary
+https://www.googleapis.com/drive/v3/files/1vYclqN5hbvoFzn9GLEyysvY5dJZsNxQc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Titisan Setan 2
+https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIE INDONESIA HOROR",Wengi Anak Mayit
+https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 ======================= RADIO ===============================>
