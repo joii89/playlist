@@ -38,15 +38,10 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST",HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpdhttps://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="PLAYLIST",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -159,7 +154,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="PLAYLIST",ALLPLAY ENT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="PLAYLIST",ALLPLAY ENT
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",BIOSKOP INDONESIA
@@ -170,25 +165,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd 
 
 #EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="Playlist", Flik
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
 
@@ -218,7 +204,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xjy8K4N/ROCK-ENTERTAINMENT.png" group-title="PLAYLIST", ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="PLAYLIST", ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -304,11 +290,9 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="PLAYLIST",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="PLAYLIST",HBO Signature
@@ -319,7 +303,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -609,7 +592,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/08/A.Sprinkle.
 #EXTINF:-1 tvg-id="" tvg-name="Autumn at Apple Hill" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/10/yNHN88QVgFWC1lMoqXqrHyeCAXK.jpg" group-title="Video On Demand", Autumn at Apple Hill 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/08/Autumn.at.Apple.Hill.2024.mp4/tracks-v1a1/mono.m3u8  
 
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy: The Crooked Man" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/10/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg" group-title="MOVIES 2024", Hellboy: The Crooked Man https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Hellboy.The.Crooked.Man.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Speak No Evil" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/09/t01TUL5X2oBNF0qjjgS4BXaWplJ.jpg" group-title="MOVIES 2024", Speak No Evil https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/05/Speak.No.Evil.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Kill Em All 2" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/09/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="MOVIES 2024", Kill Em All 2 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Sep/16/Kill.Em.All.2.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Harold and the Purple Crayon" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg" group-title="MOVIES 2024", Harold and the Purple Crayon https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/17/Harold.and.the.Purple.Crayon.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Angels Fallen: Warriors of Peace" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg" group-title="MOVIES 2024", Angels Fallen: Warriors of Peace https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/11/Angels.Fallen.Warriors.of.Peace.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Gunner" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg" group-title="MOVIES 2024", Gunner https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/10/Gunner.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="The Union" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/kWGVB2x76Bo5GWCR31W41Pmz3PH.jpg" group-title="Video On Demand", The Union
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy: The Crooked Man" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/10/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg" group-title="Video On Demand", Hellboy: The Crooked Man https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Hellboy.The.Crooked.Man.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Speak No Evil" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/09/t01TUL5X2oBNF0qjjgS4BXaWplJ.jpg" group-title="MOVIES 2024", Speak No Evil https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/05/Speak.No.Evil.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Kill Em All 2" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/09/ppV7u5flh7QJfL8R0omYZrRf31P.jpg" group-title="MOVIES 2024", Kill Em All 2 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Sep/16/Kill.Em.All.2.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Harold and the Purple Crayon" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg" group-title="MOVIES 2024", Harold and the Purple Crayon https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/17/Harold.and.the.Purple.Crayon.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Angels Fallen: Warriors of Peace" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg" group-title="MOVIES 2024", Angels Fallen: Warriors of Peace https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/11/Angels.Fallen.Warriors.of.Peace.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="Gunner" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg" group-title="MOVIES 2024", Gunner https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/10/Gunner.2024.mp4/tracks-v1a1/mono.m3u8  #EXTINF:-1 tvg-id="" tvg-name="The Union" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/kWGVB2x76Bo5GWCR31W41Pmz3PH.jpg" group-title="Video On Demand", The Union
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/10/The.Union.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Twisters" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/08/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="Video On Demand", Twisters
@@ -1019,10 +1002,10 @@ https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=
 #EXTINF:-1 group-title="VOD INDO",Kadet 1947
 https://www.googleapis.com/drive/v3/files/1Y3PV8NxfkU_4VBWKqMACvpRVEuqB_EF6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2023/04/5QVcXthCvEs8wRRCEO4QMW8HU40-170x255.jpg" group-title="Playlist", Masuk Kena Keluar Kena (1992)
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2023/04/5QVcXthCvEs8wRRCEO4QMW8HU40-170x255.jpg" group-title="VOD INDO", Masuk Kena Keluar Kena
 https://pixeldrain.com/api/file/MLZSyVnu
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://new10.ngefilm.site/wp-content/uploads/2023/04/zrDSIz5FC26caRmAFcNh4uy5Mg9-152x228.jpg" group-title="Playlist", Bisa Naik Bisa Turun (1991)
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://new10.ngefilm.site/wp-content/uploads/2023/04/zrDSIz5FC26caRmAFcNh4uy5Mg9-152x228.jpg" group-title="VOD INDO", Bisa Naik Bisa Turun
 https://pixeldrain.com/api/file/EgY6pgri
 
 #EXTINF:-1 group-title="VOD INDO",Pertaruhan
