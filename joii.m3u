@@ -948,10 +948,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/05/Silent.Roar
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zX7H49WS/kkndidesapenari.jpg" group-title="VOD INDO",KKN di Desa Penari
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
-
 #EXTINF:-1 group-title="VOD INDO",Ashiap Man
 https://www.googleapis.com/drive/v3/files/1fdd5aeRsr9hWFLFOTi6sb1LjWKiRgElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -1116,34 +1112,27 @@ https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=
 https://www.googleapis.com/drive/v3/files/1V5iiIO7_IlffUUK7gaEwN4xyBNA97gni?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Ada Mertua Di Rumahku
-
 https://www.googleapis.com/drive/v3/files/1J0LV1GPWyp29SZAxttrCuztGqTz_sDNZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Cek Ombak Melulu
-
 https://www.googleapis.com/drive/v3/files/1gpPoR9BdBqFFWz-6svXld4nxRZC4nJhG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Enam Batang
 https://www.googleapis.com/drive/v3/files/1vhua-3To0ZvwT8uGPm-AB9Tnf1w0aQYI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Aku Bukan Jodohnya
-
 https://www.googleapis.com/drive/v3/files/1FBDzo_8U5R-JfnBNR5b_5RmN4hMnDQq1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Eyang Ti
-
 https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Menunggu Bunda
-
 https://www.googleapis.com/drive/v3/files/1NH1ROYrB-zACqhlIbgCPr-UAh_kxxdiu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Kemarin
-
 https://www.googleapis.com/drive/v3/files/1n2vmBIoqT1kfRTpNvT3VzIXzgxeWUdMw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Kapan Pindah Rumah?
-
 https://www.googleapis.com/drive/v3/files/1bwOSUXFQIZIsZx9cBTlvf1YdQu4KRVMi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Love of Fate
@@ -1234,7 +1223,7 @@ https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD Indo",Wiro Sableng 212
+#EXTINF:-1 group-title="VOD INDO",Wiro Sableng 212
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://seraphinapl.com/stream/eYjqnY0Hj-YX0ZJbfCa1Pg/hjkrhuihghfvu/1750826797/8197492/index-v1-a1.m3u8
 
@@ -1296,7 +1285,9 @@ https://ktpremium.com:443/movie/A0112/8544/929226.mp4
 #EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/77b198b0c27d502f519c8956e19d8cd4.jpg" tvg-name="Alena: Anak Ratu Iblis (2023)[NOSUB]" ,Alena: Anak Ratu Iblis (2023)[NOSUB]
 https://ktpremium.com:443/movie/A0112/8544/929400.mp4
 
+
 =======================MOVIE INDONESIA HOROR=======================
+
 
 #EXTM3U
 
