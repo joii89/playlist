@@ -438,7 +438,7 @@ https://www.googleapis.com/drive/v3/files/1Hqh4fOjRAA2b2KQK7HqDNmUceQhyFqYC?alt=
 https://seraphinapl.com/stream/q1IaLFr0O79ycJMT8I_U6g/hjkrhuihghfvu/1751385510/67129/index-f1-v1-a1.m3u8
 https://www.googleapis.com/drive/v3/files/1s87x5Afctnrvh_vbl_M3taQ70QX--nGh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand", Bad Boys Ride Or Die
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand" tvg-name="", Bad Boys Ride Or Die
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/10/Bad.Boys.Ride.or.Die.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVlNzcwNWItZDUyZC00MzM4LWExYWYtNjQwNjJhOGNkZjNlXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SX300.jpg",Dragonkeeper (Jianping Li)
@@ -541,7 +541,7 @@ https://cloud.hownetwork.xyz/xxx/JRc9JiwaWjIuMA4pMUN7anJKfGMyHBUlLg4vE3FSb2t2QSw
 https://s9dz.mooringcarmel.sbs/v4/m9/5wikyj/cf-master.txt?v=1744866994|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg", Rule Breakers
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg" tvg-name="", Rule Breakers
 https://sojg.mooringcarmel.sbs/v4/ty/rq1xh9/cf-master.txt?v=1744822539|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -1031,7 +1031,6 @@ https://www.googleapis.com/drive/v3/files/1mk2bPplaAM9HenaccaBcbLQOXPIDSPtx?alt=
 https://www.googleapis.com/drive/v3/files/1bS1EVrOx3PsJiguizDfpGnGr1DuR6gJm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Ben & Jody
-
 https://www.googleapis.com/drive/v3/files/1tZMWGdrTwHvLef64IvY3oZkTE7uDVPJW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Kau & Dia 2
