@@ -425,35 +425,36 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 <=============================================== Video On Demand =====================================>  
 
+#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Video On Demand" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71piCu%2BSGQL._AC_SY500_.jpg", Spiderman 1 2002
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 1 2002" group-title="Video On Demand" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71piCu%2BSGQL._AC_SY500_.jpg", Spiderman 1 2002
 https://seraphinapl.com/stream/K52qi6yg_F37V7SPlbmf7A/hjkrhuihghfvu/1751385085/71441/index-f2-v1-a1.m3u8
 https://www.googleapis.com/drive/v3/files/1REkPOSU-1fLR1q4_9yS-23aQcUCUPkpw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Video On Demand" tvg-logo="https://worldviewbibleversus.files.wordpress.com/2015/03/spider-man-2.jpg", Spiderman 2 2004
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 2 2004" group-title="Video On Demand" tvg-logo="https://worldviewbibleversus.files.wordpress.com/2015/03/spider-man-2.jpg", Spiderman 2 2004
 https://seraphinapl.com/stream/scj3Lz9UO4_85-Cq5AAOaA/hjkrhuihghfvu/1751385381/71226/index-f1-v1-a1.m3u8
 https://www.googleapis.com/drive/v3/files/1Hqh4fOjRAA2b2KQK7HqDNmUceQhyFqYC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Video On Demand" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/Spider-Man_3%2C_International_Poster.jpg", Spiderman 3 2007
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 3 2007" group-title="Video On Demand" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/Spider-Man_3%2C_International_Poster.jpg", Spiderman 3 2007
 https://seraphinapl.com/stream/q1IaLFr0O79ycJMT8I_U6g/hjkrhuihghfvu/1751385510/67129/index-f1-v1-a1.m3u8
 https://www.googleapis.com/drive/v3/files/1s87x5Afctnrvh_vbl_M3taQ70QX--nGh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand" tvg-name="", Bad Boys Ride Or Die
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand" tvg-name="Bad Boys Ride Or Die", Bad Boys Ride Or Die
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/10/Bad.Boys.Ride.or.Die.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVlNzcwNWItZDUyZC00MzM4LWExYWYtNjQwNjJhOGNkZjNlXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SX300.jpg",Dragonkeeper (Jianping Li)
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVlNzcwNWItZDUyZC00MzM4LWExYWYtNjQwNjJhOGNkZjNlXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SX300.jpg" tvg-name="Dragonkeeper (Jianping Li)",Dragonkeeper (Jianping Li)
 https://storage.dewanonton.online/hls/87500394-6457-4767-a682-47872940bf5f.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand", The Last Breath
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vectorstock.com/i/500p/44/09/vod-video-on-demand-monetization-vector-42184409.jpg" group-title="Video On Demand" tvg-name="The Last Breath", The Last Breath
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/12/The.Last.Breath.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://image.tmdb.org/t/p/original/gKTbEQJnkYXVZkq1g4ZakJ9Y16N.jpg",The Legend Of The Condor Heroes: The Dragon Tamer
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://image.tmdb.org/t/p/original/gKTbEQJnkYXVZkq1g4ZakJ9Y16N.jpg"tvg-name="The Legend Of The Condor Heroes: The Dragon Tamer",The Legend Of The Condor Heroes: The Dragon Tamer
 https://storage.dewanonton.online/hls/343866de-7229-4f7b-a18e-904f24f9ab45.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Carry-On" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="Video On Demand", Carry-On
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="Video On Demand" tvg-name="Carry-On", Carry-On
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/07/Carry.On.2024.mp4/tracks-v1a1/mono.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Girl Haunts Boy" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/3sqPy0QzJGEYcpxLaV2w3BJyH04.jpg" group-title="Video On Demand", Girl Haunts Boy
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/3sqPy0QzJGEYcpxLaV2w3BJyH04.jpg" group-title="Video On Demand" tvg-name="Girl Haunts Boy", Girl Haunts Boy
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Girl.Haunts.Boy.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="The Invisible Raptor" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/aLdgzOi3X8xg1AiYliTyiHQGn5B.jpg" group-title="Video On Demand", The Invisible Raptor
