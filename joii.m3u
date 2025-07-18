@@ -744,6 +744,11 @@ https://cdn3.turboviplay.com/data1/6729cdb40cd99/6729cdb40cd99720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="", Xxx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://apac2.8d5fff6dafa213ef6b9210db39c5f56e.r2.cloudflarestorage.com/45666.mp4?response-content-disposition=attachment%3B%20filename%3D56363c2b36be6de4ac2f67eaa038b927.svg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=33bf6a0344f1da7a92b58edb71696011%2F20250718%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250718T213207Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=b76e258791a427e46fa53ff3a26e5eec80b5edc964f16df81810c71cf98f923e
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="", Xxx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.turboviplay.com/data1/6822e5bf2072c/6822e5bf2072c1080.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
