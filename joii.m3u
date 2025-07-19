@@ -162,13 +162,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1  tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="PLAYLIST",TRANSTV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="PLAYLIST",TRANS7
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="PLAYLIST",ALLPLAY ENT
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -192,8 +194,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 group-title="Playlist"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -462,18 +464,6 @@ https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV" tvg-logo="https://iili.io/JmoC4sV.png" group-title="PLAYLIST", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-l.png" group-title="PLAYLIST", Trans 7 FM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-l.png" group-title="Playlist", Trans TV FM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
-https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 
 <=============================================== Video On Demand =====================================>  
