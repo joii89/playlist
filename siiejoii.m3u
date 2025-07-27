@@ -238,16 +238,22 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="PLAYLIST", Dunia Lain
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
+  #EXTI   
+
 #EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP
+http://iptvtree.net:8080/live/F28312/cc1dc138/298526.ts
 http://opplex.ch:8080/live/10071975/10071975/350941.ts
 
 #EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 2
+http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
 http://opplex.ch:8080/live/10071975/10071975/350917.ts
 
 #EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 3
+http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
 http://opplex.ch:8080/live/10071975/10071975/350918.ts
 
 #EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 4
+http://iptvtree.net:8080/live/F28312/cc1dc138/298529.ts
 http://opplex.ch:8080/live/10071975/10071975/350944.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxLA22eiNPeR3xsAND2l7b7KuhHi94HEwog&s" group-title="PLAYLIST", TVN MOVIES
@@ -305,9 +311,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="PLAYLIST", CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62277.ts
-http://xott.live:8080/live/home/123456/350922.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerL,
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
@@ -1048,18 +1052,25 @@ http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp
 http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4505/734505-h" group-title="VOD INDO", Warkop DKI Reborn: Jangkrik Boss Part 2
 http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/Cek_Toko_Sebelah.jpg" group-title="VOD INDO",Cek Toko Sebelah 
 http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
 http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+
 #EXTINF:-1 group-title="VOD INDO",Warkop DKI - Bebas Aturan Main
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
+
 #EXTINF:-1 group-title="VOD INDO",Warkop DKI - Godain Kita Dong
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
+
 #EXTINF:-1 group-title="VOD INDO",Warkop DKI - Itu Bisa Diatur
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
+
 #EXTINF:-1 group-title="VOD INDO",Warkop DKI - Malu Malu Mau
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
+
 #EXTINF:-1 group-title="VOD INDO",Warkop DKI - Saya Suka Kamu Punya
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta (2002)
@@ -1578,7 +1589,22 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/The.Invisib
 #EXTINF:-1 tvg-id="" tvg-name="Allen Sunshine" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/mIz2zVOCRqfUj3QU3X64esg2Up7.jpg" group-title="🎞️ VOD FILM 🎞️", Allen Sunshine 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Allen.Sunshine.2024.mp4/tracks-v1a1/mono.m3u8   
 
-#EXTINF:-1 tvg-id="" tvg-name="Heretic" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg" group-title="🎞️ VOD FILM 🎞️", Heretic https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Heretic.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Run!" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/etl32nHUW0GHuxuRTocS7ONKLRi.jpg" group-title="🎞️ VOD FILM 🎞️", Run! https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Run.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Aftermath" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/gEHIVyJB9VWLF3cuJOpYjJjegd1.jpg" group-title="🎞️ VOD FILM 🎞️", Aftermath https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/03/Aftermath.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Conclave" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg" group-title="🎞️ VOD FILM 🎞️", Conclave https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Conclave.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Nutcrackers" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="🎞️ VOD FILM 🎞️", Nutcrackers https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Nutcrackers.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Santastein" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/dOLDjeHdCrEalwyWTU5uC7j4bz1.jpg" group-title="🎞️ VOD FILM 🎞️", Santastein https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Santastein.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Here" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/k4rrMs9L5fiW1447LTQsgsDrvdE.jpg" group-title="🎞️ VOD FILM 🎞️", Here https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/18/Here.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Dear Santa" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/kYp5C3oIHV98E5NnObCuadLyOml.jpg" group-title="🎞️ VOD FILM 🎞️", Dear Santa https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/17/Dear.Santa.2024.mp4/tracks-v1a1/mono.m3u8   
+#EXTINF:-1 tvg-id="" tvg-name="Heretic" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg" group-title="🎞️ VOD FILM 🎞️", Heretic 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Heretic.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Run!" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/etl32nHUW0GHuxuRTocS7ONKLRi.jpg" group-title="🎞️ VOD FILM 🎞️", Run! 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Run.2024.mp4/tracks-v1a1/mono.m3u8   
+
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/gEHIVyJB9VWLF3cuJOpYjJjegd1.jpg" group-title="🎞️ VOD FILM 🎞️", Aftermath https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/03/Aftermath.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Conclave" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg" group-title="🎞️ VOD FILM 🎞️", Conclave https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Conclave.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Nutcrackers" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="🎞️ VOD FILM 🎞️", Nutcrackers https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Nutcrackers.2024.mp4/tracks-v1a1/mono.m3u8   
+
+#EXTINF:-1 tvg-id="" tvg-name="Santastein" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/dOLDjeHdCrEalwyWTU5uC7j4bz1.jpg" group-title="🎞️ VOD FILM 🎞️", Santastein 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Santastein.2024.mp4/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Here" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/k4rrMs9L5fiW1447LTQsgsDrvdE.jpg" group-title="🎞️ VOD FILM 🎞️", Here 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/18/Here.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dear Santa" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/kYp5C3oIHV98E5NnObCuadLyOml.jpg" group-title="🎞️ VOD FILM 🎞️", Dear Santa 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/17/Dear.Santa.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Our Little Secret" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/7isqmWUryG2xksrw0E75m3vYTFd.jpg" group-title="🎞️ VOD FILM 🎞️", Our Little Secret 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/17/Our.Little.Secret.2024.mp4/tracks-v1a1/mono.m3u8   
