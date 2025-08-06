@@ -331,10 +331,49 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
 
+#EXTINF:-1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="PLAYLIST",SONY PIX 
+http://15.235.181.35/live.ts?channelId=189&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1 
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PLAYLIST",MyTime Movie Network 
+https://mytime-tcl.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="PLAYLIST",Moviesphere Free 
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s" group-title="PLAYLIST",MovieDome Family 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="400000062" tvg-logo="https://canvas-lb.tubitv.com/opts/VE9y78SPHEz81g==/7d5c01ed-fb34-40c8-8c25-a56895e550f0/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST",BritBox Mysteries 
+https://live-manifest.production-public.tubi.io/live/f85e3cad-d93b-4ed7-bc4d-70b4ae235952/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/viTixeFaXMQqVA==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST",FilmRise Horror 
+https://live-manifest.production-public.tubi.io/live/cd2b34fc-ed87-4467-a85f-607febe5edab/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="692051" tvg-logo="https://canvas-lb.tubitv.com/opts/-wVTmgtRqbKRPA==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST",Horror 
+https://live-manifest.production-public.tubi.io/live/19113e7a-f835-4a4a-bedb-df067f784586/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="PLAYLIST",HBO+ 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="PLAYLIST",HBO 2 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="PLAYLIST",HBO XTREME 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="PLAYLIST",MEDIACORP ENGLSIH 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="PLAYLIST",FW MOVIE 
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="PLAYLIST",FW SOV 
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI= 
+
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="PLAYLIST",HBO Family
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-http://iptvtree.net:8080/live/F28312/cc1dc138/306485.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505837.m3u8
+http://iptvtree.net:8080/live/F28312/cc1dc138/306485.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="PLAYLIST",HBO Signature
