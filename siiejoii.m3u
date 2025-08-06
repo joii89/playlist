@@ -866,8 +866,6 @@ https://cdn4.turboviplay.com/data1/68071f2736f17/68071f2736f17720.m3u8
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",Captain America: Brave New World
 https://cloud.hownetwork.xyz/xxx/8a4df659ae3306abb98f010f229773bc/25/480.m3u8 https://seneng.org/v/driveid-198147-webrip-1080-terbit21-com-captain-america-brave-new-world-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 https://cdn1.turboviplay.com/data1/67d17c59d3c61/67d17c59d3c61720.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Video On Demand" tvg-logo="", Xxx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1557,7 +1555,7 @@ https://ktpremium.com:443/movie/A0112/8544/926694.mp4
 #EXTINF:-1 group-title="VOD INDO" tvg-logo="https://portalsemakan.com/wp-content/uploads/2023/07/361248905_657057309802192_1947969331123126742_n.jpeg" tvg-name="Anugerah Bintang Popular BH (2023)" ,Anugerah Bintang Popular BH (2023)
 https://ktpremium.com:443/movie/A0112/8544/927644.mp4
 
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/dfdf1def987301dd89c1ea306ec5f3ed.jpg" tvg-name="Kau Pilih Siapa? (2023)[NOSUB]" ,Kau Pilih Siapa? (2023)[NOSUB]
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/dfdf1def987301dd89c1ea306ec5f3ed.jpg" tvg-name="Kau Pilih Siapa? (2023)" ,Kau Pilih Siapa? (2023)[NOSUB]
 https://ktpremium.com:443/movie/A0112/8544/928098.mp4
 
 #EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/fed60ab622afe7783006d8da1332fe39.jpg" tvg-name="Stone Turtle (2022) [BM]" ,Stone Turtle (2022) [BM]
@@ -1737,7 +1735,14 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Heretic.202
 #EXTINF:-1 tvg-id="" tvg-name="Run!" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/etl32nHUW0GHuxuRTocS7ONKLRi.jpg" group-title="🎞️ VOD FILM 🎞️", Run! 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Run.2024.mp4/tracks-v1a1/mono.m3u8   
 
-#EXTINF:-1 tvg-id="" tvg-name="Aftermath" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/gEHIVyJB9VWLF3cuJOpYjJjegd1.jpg" group-title="🎞️ VOD FILM 🎞️", Aftermath https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/03/Aftermath.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Conclave" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg" group-title="🎞️ VOD FILM 🎞️", Conclave https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Conclave.2024.mp4/tracks-v1a1/mono.m3u8   #EXTINF:-1 tvg-id="" tvg-name="Nutcrackers" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="🎞️ VOD FILM 🎞️", Nutcrackers https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Nutcrackers.2024.mp4/tracks-v1a1/mono.m3u8   
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/gEHIVyJB9VWLF3cuJOpYjJjegd1.jpg" group-title="🎞️ VOD FILM 🎞️", Aftermath 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/03/Aftermath.2024.mp4/tracks-v1a1/mono.m3u8   
+
+#EXTINF:-1 tvg-id="" tvg-name="Conclave" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg" group-title="🎞️ VOD FILM 🎞️", Conclave 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Conclave.2024.mp4/tracks-v1a1/mono.m3u8   
+
+#EXTINF:-1 tvg-id="" tvg-name="Nutcrackers" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg" group-title="🎞️ VOD FILM 🎞️", Nutcrackers 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Nutcrackers.2024.mp4/tracks-v1a1/mono.m3u8   
 
 #EXTINF:-1 tvg-id="" tvg-name="Santastein" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/dOLDjeHdCrEalwyWTU5uC7j4bz1.jpg" group-title="🎞️ VOD FILM 🎞️", Santastein 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/19/Santastein.2024.mp4/tracks-v1a1/mono.m3u8 
@@ -1756,9 +1761,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/02/Juror.2.202
 
 #EXTINF:-1 tvg-id="" tvg-name="Out of My Mind" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/o8qtMeCskitW5QwSu6O1nP4jN6z.jpg" group-title="🎞️ VOD FILM 🎞️", Out of My Mind 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/15/Out.of.My.Mind.2024.mp4/tracks-v1a1/mono.m3u8   
-
-#EXTINF:-1 tvg-id="" tvg-name="Elevation" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/11/uQhYBxOVFU6s9agD49FnGHwJqG5.jpg" group-title="🎞️ VOD FILM 🎞️", Elevation 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/202
 
 ======================= RADIO ===============================>
 
