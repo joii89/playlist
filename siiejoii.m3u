@@ -29,8 +29,11 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts 
 
-EXTINF:-1 group-title="Playlist" group-logo="" tvg-logo="", Cinebox
+#EXTINF:-1 group-title="Playlist" group-logo="" tvg-logo="", Cinebox
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
+
+#EXTINF:-1 group-title="Playlist" group-logo="" tvg-logo="", Cinebox Movie
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="PLAYLIST" tvg-id="" , Studio Universal 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
