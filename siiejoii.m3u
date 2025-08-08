@@ -1,11 +1,6 @@
 
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, 
-https://www.open-epg.com/files/indonesia1.xml, 
-https://www.open-epg.com/files/indonesia2.xml, 
-https://www.open-epg.com/files/indonesia3.xml, 
-https://www.open-epg.com/files/indonesia4.xml, 
-https://www.open-epg.com/files/indonesia5.xml, 
-https://www.open-epg.com/files/indonesia6.xml, 
+https://www.open-epg.com/files/indonesia1.xml,
 https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, 
 https://tinyurl.com/DrewLive002-epg" refresh="3600"
 #EXTM3U x-tvg-url="http://epg.urfan.web.id"
@@ -24,15 +19,17 @@ https://tinyurl.com/DrewLive002-epg" refresh="3600"
 #KODIPROP:inputstream.adaptive.manifest_type=dash  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d 
+http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
-https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts 
+https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd 
 
 #EXTINF:-1 group-title="Playlist" group-logo="" tvg-logo="", Cinebox
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
 
-#EXTINF:-1 group-title="Playlist" group-logo="" tvg-logo="", Cinebox Movie
+#EXTINF:-1 group-title="Playlist" tvg-logo="", Cinebox Movie
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="PLAYLIST" tvg-id="" , Studio Universal 
@@ -49,8 +46,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 group-title="PLAYLIST"  tvg-logo="https://i.ibb.co.com/K6jTh7b/galaxy-premium.png",GALAXY PREMIUM
-http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=
@@ -126,10 +123,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="PLAYLIST",ANTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8 
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8 
 https://why.biz.id/Iptv/oxygen.php?id=antv
-https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8 
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="PLAYLIST",Global TV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
