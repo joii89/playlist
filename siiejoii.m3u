@@ -1,3 +1,13 @@
+
+#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, 
+https://www.open-epg.com/files/indonesia1.xml, 
+https://www.open-epg.com/files/indonesia2.xml, 
+https://www.open-epg.com/files/indonesia3.xml, 
+https://www.open-epg.com/files/indonesia4.xml, 
+https://www.open-epg.com/files/indonesia5.xml, 
+https://www.open-epg.com/files/indonesia6.xml, 
+https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, 
+https://tinyurl.com/DrewLive002-epg" refresh="3600"
 #EXTM3U x-tvg-url="http://epg.urfan.web.id"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml"
@@ -18,6 +28,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts 
+
+EXTINF:-1 group-title="Playlist" group-logo="" tvg-logo="", Cinebox
+http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="PLAYLIST" tvg-id="" , Studio Universal 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -167,12 +180,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1  tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="PLAYLIST",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="PLAYLIST",TRANS7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
