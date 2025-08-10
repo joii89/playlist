@@ -484,7 +484,7 @@ https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 https://tvstreamcast.com/indonesiana.m3u8
 
 
-__________________ MOVIES TV🍿 ________________
+__________________ PLAYLIST MOVIES CHANNEL  ________________
 
 
 #EXTM3U
@@ -492,34 +492,32 @@ __________________ MOVIES TV🍿 ________________
 #EXTINF:-1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="MOVIES TV🍿",SONY PIX 
 http://15.235.181.35/live.ts?channelId=189&uid=316&deviceMac=00:1A:79:01:04:AC&redir=1 
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="MOVIES TV🍿",MyTime Movie Network 
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PLAYLIST MOVIES CHANNEL",MyTime Movie Network 
 https://mytime-tcl.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES TV🍿",Moviesphere Free 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="PLAYLIST MOVIES CHANNEL",Moviesphere Free 
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s" group-title="MOVIES TV🍿",MovieDome Family 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s" group-title="PLAYLIST MOVIES CHANNEL",MovieDome Family 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="400000062" tvg-logo="https://canvas-lb.tubitv.com/opts/VE9y78SPHEz81g==/7d5c01ed-fb34-40c8-8c25-a56895e550f0/CHgQeDoFMS4xLjZAAQ==" group-title="MOVIES TV🍿",BritBox Mysteries 
-https://live-manifest.production-public.tubi.io/live/f85e3cad-d93b-4ed7-bc4d-70b4ae235952/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/viTixeFaXMQqVA==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjZAAQ==" group-title="MOVIES TV🍿",FilmRise Horror 
+#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/viTixeFaXMQqVA==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST MOVIES CHANNEL",FilmRise Horror 
 https://live-manifest.production-public.tubi.io/live/cd2b34fc-ed87-4467-a85f-607febe5edab/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="692051" tvg-logo="https://canvas-lb.tubitv.com/opts/-wVTmgtRqbKRPA==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjZAAQ==" group-title="MOVIES TV🍿",Horror 
+#EXTINF:-1 tvg-id="692051" tvg-logo="https://canvas-lb.tubitv.com/opts/-wVTmgtRqbKRPA==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjZAAQ==" group-title="",Horror 
 https://live-manifest.production-public.tubi.io/live/19113e7a-f835-4a4a-bedb-df067f784586/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="MOVIES TV🍿",HBO+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="PLAYLIST MOVIES CHANNEL",HBO+ 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="MOVIES TV🍿",HBO 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="PLAYLIST MOVIES CHANNEL",HBO 2 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="MOVIES TV🍿",HBO XTREME 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="PLAYLIST MOVIES CHANNEL",HBO XTREME 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="MOVIES TV🍿",MEDIACORP ENGLSIH 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="PLAYLIST MOVIES CHANNEL",MEDIACORP ENGLSIH 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="MOVIES TV🍿",FW MOVIE 
@@ -528,17 +526,17 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="MOVIES TV🍿",FW SOV 
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI= 
 
-#EXTINF:-1 group-title="MOVIES TV🍿" group-logo="" tvg-logo="", Cinebox
+#EXTINF:-1 group-title="PLAYLIST MOVIES CHANNEL" group-logo="" tvg-logo="", Cinebox
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119432.ts
 
-#EXTINF:-1 group-title="MOVIES TV🍿" tvg-logo="", Cinebox Movie
+#EXTINF:-1 group-title="PLAYLIST MOVIES CHANNEL" tvg-logo="", Cinebox Movie
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 http://cord-cutter.net:8080/live/Ss5DKE/232455/119421.ts
 
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://iili.io/JZIC3x9.png" group-title="MOVIES TV🍿", Rock Action v+
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://iili.io/JZIC3x9.png" group-title="PLAYLIST MOVIES CHANNEL", Rock Action v+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -547,25 +545,29 @@ https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-logo="https://i.ibb.co.com/M8bPn6b/originals.png" group-title="MOVIES TV🍿", ORIGINALS
+#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-logo="https://i.ibb.co.com/M8bPn6b/originals.png" group-title="PLAYLIST MOVIES CHANNEL", ORIGINALS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-#EXTINF:-1 tvg-id="CINEMACHI MAX HD - [Channel 404].id" tvg-logo="https://i.ibb.co.com/6t01wzG/supperix.png" group-title="MOVIES TV🍿", SUPERRIX MAX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-logo="https://i.ibb.co.com/TBwRZ8J/uniques.png" group-title="MOVIES TV🍿", UNIQUE
+#EXTINF:-1 tvg-id="CINEMACHI MAX HD - [Channel 404].id" tvg-logo="https://i.ibb.co.com/6t01wzG/supperix.png" group-title="PLAYLIST MOVIES CHANNEL", SUPERRIX MAX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-logo="https://i.ibb.co.com/TBwRZ8J/uniques.png" group-title="PLAYLIST MOVIES CHANNEL", UNIQUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 
