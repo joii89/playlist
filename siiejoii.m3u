@@ -14,13 +14,13 @@ https://tinyurl.com/DrewLive002-epg" refresh="3600"
 
 #EXTINF:-1 group-title="PLAYLIST" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_imc_small.png", IMC
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive  
-#KODIPROP:inputstream.adaptive.manifest_type=dash  
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u8
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd 
 
 #EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://i.ibb.co.com/K6jTh7b/galaxy-premium.png",GALAXY PREMIUM
