@@ -23,13 +23,14 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505847.m3u
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264769.ts
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd 
 
-#EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://i.ibb.co.com/K6jTh7b/galaxy-premium.png",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="PLAYLIST MOVIES", Galaxy Premium
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTINF:-1 group-title="PLAYLIST" tvg-logo="https://i.ibb.co.com/K6jTh7b/galaxy-premium.png",GALAXY PREMIUM
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpdhttps://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
@@ -275,21 +276,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="PLAYLIST", Dunia Lain
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP
-http://iptvtree.net:8080/live/F28312/cc1dc138/298526.ts
-http://opplex.ch:8080/live/10071975/10071975/350941.ts
-
-#EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 2
-http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
-http://opplex.ch:8080/live/10071975/10071975/350917.ts
-
-#EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 3
-http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
-http://opplex.ch:8080/live/10071975/10071975/350918.ts
-
-#EXTINF: -1 group-title="PLAYLIST" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 4
-http://iptvtree.net:8080/live/F28312/cc1dc138/298529.ts
-http://opplex.ch:8080/live/10071975/10071975/350944.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxLA22eiNPeR3xsAND2l7b7KuhHi94HEwog&s" group-title="PLAYLIST", TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -852,7 +838,21 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d 
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd 
 
-#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/viTixeFaXMQqVA==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST MOVIES",FilmRise Horror 
+#EXTINF: -1 group-title="PLAYLIST MOVIES" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP
+http://iptvtree.net:8080/live/F28312/cc1dc138/298526.ts
+http://opplex.ch:8080/live/10071975/10071975/350941.ts
+
+#EXTINF: -1 group-title="PLAYLIST MOVIES" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 2
+http://iptvtree.net:8080/live/F28312/cc1dc138/298513.ts
+http://opplex.ch:8080/live/10071975/10071975/350917.ts
+
+#EXTINF: -1 group-title="PLAYLIST MOVIES" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 3
+http://iptvtree.net:8080/live/F28312/cc1dc138/298514.ts
+http://opplex.ch:8080/live/10071975/10071975/350918.ts
+
+#EXTINF: -1 group-title="PLAYLIST MOVIES" tvg-logo="https://iili.io/3PewxHl.png",ETv BIOSKOP 4
+http://iptvtree.net:8080/live/F28312/cc1dc138/298529.ts
+http://opplex.ch:8080/live/10071975/10071975/350944.ts#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/viTixeFaXMQqVA==/954da076-c0e7-4560-9d3a-87f4bcfd3bf3/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST MOVIES",FilmRise Horror 
 https://live-manifest.production-public.tubi.io/live/cd2b34fc-ed87-4467-a85f-607febe5edab/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="692051" tvg-logo="https://canvas-lb.tubitv.com/opts/-wVTmgtRqbKRPA==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjZAAQ==" group-title="PLAYLIST MOVIES",Horror 
@@ -2570,6 +2570,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/249b4f31689274a7e76daa19049e4854/1080p/in
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider (2001)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/m6aodY7SrvlT
+
 
 
 
