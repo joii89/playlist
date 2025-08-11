@@ -161,18 +161,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1  tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="PLAYLIST",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="PLAYLIST",TRANS7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthDotJHHwYBFUM39J5kjMrT605N7374WP4w&s" group-title="PLAYLIST",ALLPLAY ENT
@@ -2571,6 +2571,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/249b4f31689274a7e76daa19049e4854/1080p/in
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider (2001)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/m6aodY7SrvlT
+
 
 
 
