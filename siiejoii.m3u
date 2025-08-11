@@ -15,7 +15,7 @@ https://tinyurl.com/DrewLive002-epg" refresh="3600"
 #EXTINF:-1 group-title="PLAYLIST" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_imc_small.png", IMC
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
@@ -2570,6 +2570,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/249b4f31689274a7e76daa19049e4854/1080p/in
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider (2001)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2019/09/m6aodY7SrvlT
+
 
 
 
