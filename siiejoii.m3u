@@ -53,6 +53,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505838.m3u8
 http://iptvtree.net:8080/live/F28312/cc1dc138/306486.ts
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -281,7 +282,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.m
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="PLAYLIST MOVIE",Rock Entertainment
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMarslHjBHlOjzDjVZqs75LTP7NW1zpKbw&s" group-title="PLAYLIST",Thrill
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMarslHjBHlOjzDjVZqs75LTP7NW1zpKbw&s" group-title="PLAYLIST MOVIE",Thrill
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -293,15 +294,15 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="PLAYLIST", Dunia Lain
+#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="Indonesia Channels", Dunia Lain
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxLA22eiNPeR3xsAND2l7b7KuhHi94HEwog&s" group-title="PLAYLIST", TVN MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxLA22eiNPeR3xsAND2l7b7KuhHi94HEwog&s" group-title="PLAYLIST MOVIE", TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png" group-title="PLAYLIST",HITS MOVIE
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png" group-title="PLAYLIST MOVIE",HITS MOVIE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -309,7 +310,7 @@ http://opplex.ch:8080/live/10071975/10071975/350963.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title="Playlist" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+#EXTINF:-1 group-title="PLAYLIST MOVIE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
@@ -322,7 +323,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505822.m3u8
 
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="PLAYLIST",HBO Family
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="PLAYLIST MOVIE",HBO Family
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
@@ -343,19 +344,19 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="PLAYLIST",Movies News
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="PLAYLIST MOVIE",Movies News
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="PLAYLIST", Zee Bioskop
+#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="PLAYLIST MOVIE", Zee Bioskop
 https://fta4-cdn-flr.visionplus.id/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqVNesKYGUAVLM7nd7VKHrvvaa3FHSZ7iAXoMSoSKbO3BkfHPr0sm-Qfh7UEK7qH6bcwJBNdYL17ZAgQF0tx79maDbcMuHfDQ9gqay944Q_xjAjuXc6UUDujtxvJ5O65I8iYTWF_BAXVcPcWOUs_LeY0oO2h1sNRc1nLsX8Xq1vx4i96-zwvh3BRGxIKe/s700/DUNIA%20SINEMA.png" group-title="Playlist",DUNIA SINEMA 
+#EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigqVNesKYGUAVLM7nd7VKHrvvaa3FHSZ7iAXoMSoSKbO3BkfHPr0sm-Qfh7UEK7qH6bcwJBNdYL17ZAgQF0tx79maDbcMuHfDQ9gqay944Q_xjAjuXc6UUDujtxvJ5O65I8iYTWF_BAXVcPcWOUs_LeY0oO2h1sNRc1nLsX8Xq1vx4i96-zwvh3BRGxIKe/s700/DUNIA%20SINEMA.png" group-title="Indonesia Channels",DUNIA SINEMA 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -365,7 +366,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://iili.io/JZInBLX.png" group-title="PLAYLIST", Vision Prime
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://iili.io/JZInBLX.png" group-title="Indonesia Channels", Vision Prime
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
@@ -2775,6 +2776,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/779b4fcdf8941dee7a64b1c74a6a7fe5/720p/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="The Maze Runner (2014)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2020/02/coss7RgL0NH6g4fC2s5atvf3dFO.jpg" group-title="MOVIE COLLECTION", The Maze Runner (2014)
 https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
+
 
 
 
