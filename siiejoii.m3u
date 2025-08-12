@@ -1298,7 +1298,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;An
 
 
-<=============================================== Video On Demand =====================================>  
+<=============================================== MOVIES =====================================>  
 
 
 #EXTM3U
@@ -1904,410 +1904,48 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/12/Atlas.2024.
 
 #EXTM3U
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="VOD INDO",Pasukan Berani Mati (1982)
-http://www.goldentv.tech:25461/movie/Perfecto/170721/38684.
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="VOD INDO",Pengkhianatan G30S/PKI (1984)
-http://www.goldentv.tech:25461/movie/Perfecto/170721/38685.
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="VOD INDO",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
-http://www.goldentv.tech:25461/movie/Perfecto/170721/38686.
 
-#EXTINF:-1 type="movie" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg" group-title="VOD INDO",Penunggang Agama FHD 720p [Malay Sub]
-https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRyyrtg53gXiAnZSpni1h0jKFCK.jpg" group-title="VOD INDO",Mekah I'm Coming (2020)
-http://www.goldentv.tech:25461/movie/Perfecto/170721/14783.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Bodyguard_Ugal-ugalan.jpg" group-title="VOD INDO",Bodyguard Ugal-Ugalan
-http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4NjEyOTktNDhkNC00NWI3LWE0NDMtODcxNDBlZDgwMDI4XkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_.jpg" group-title="VOD INDO",INSYA ALLAH SAH 2
-http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4YTE5ZjAtZWEwNi00ZTg0LThiYTYtYWVlZTdhOGZkYTg0XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Arini
-http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MjFhYmYtMzIwYy00YWMzLWJlODYtM2ZhYTBjMGJjZTlhXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Benyamin Biang Kerok
-http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJlZmY0NDEtODljOC00YWU0LWI0ZmQtYmFjZDQ4ZDExYzc3XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Terbang: Menembus Langit
-http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MGE2NTEtMTU1OS00YmYyLTgwZGEtNmZlZjBkMjgwOTNmXkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_.jpg" group-title="VOD INDO",Hanum & Rangga: Faith & The City 
-http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
-
-#EXTINF:-1 tvg-logo="https://iflix-images.akamaized.net/5b4820a0e4b0fc67d2174ee5-1582775514581.jpg?transform=true" group-title="VOD INDO",London Love Story 3
-http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cf/Revan_%26_Reina_%28poster%29.jpg" group-title="VOD INDO",Revan & Reina
-http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUyNzQyYzktZDE1ZC00MjJhLThmZDYtM2VkYzdiZTVmZjUzXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Partikelir
-http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Bajaj_Bajuri_The_Movie.jpg" group-title="VOD INDO",Bajaj Bajuri the Movie
-http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
-
-#EXTINF:-1 tvg-logo="https://barisandepan.com/wp-content/uploads/2019/02/49768156_352647015464469_3552492828623123428_n.jpg" group-title="VOD INDO",Foxtrot Six
-https://www.dropbox.com/s/t2i5h7kpp2yf01j/Foxtrot.Six.2019.HDTV.720p.PF21.Net.mkv?dl=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA1YzI5MTYtYjc5ZS00NzI2LTkwNTUtMGU0MjI3MzFkMDRiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD INDO",Ghost Writer
-https://www.dropbox.com/s/rcli4iwax3ig1q5/Ghost.Writer.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDAyYTk2ZGMtNTYyZC00NjNiLThjNzktM2IxNzQyNWIwNjljXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_.jpg" group-title="VOD INDO",Mata Batin 2
-https://cdn.zaccar.ru//movies/01-10-2020/Mata.Batin.2.(2019).mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg" group-title="VOD INDO",MULAN 
-http://admin.nf21.net/go/files/17052
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0d/66/16/0d661640a6833fd717cc1ccafc297e81.jpg" group-title="VOD INDO",Ayat-Ayat Cinta 2 (2017)
-http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
-
-#EXTINF:-1 tvg-logo="https://mydirtsheet.files.wordpress.com/2018/06/alaspati_rev20april.jpg?w=640" group-title="VOD INDO", Alas Pati 
-http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE4ZjQ1MTEtYTQ0Ny00Y2YxLTlmYzktYWY0ZGQyOGM4ZDFiXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD INDO", Rompis 
-http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ef/Film_The_Secret_Suster_Ngesot_Urban_Legend.png" group-title="VOD INDO", The Secret Suster Ngesot Urban Legend 
-http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/My_Stupid_Boos_Poster.jpg/220px-My_Stupid_Boos_Poster.jpg" group-title="VOD INDO", My Stupid Bos 
-http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
-
-#EXTINF:-1 group-title="VOD INDO",My Stupid Boss 2 
-https://lh3.googleusercontent.com/MJxDpSbZguWY_oX0O2jpJ08ywaNqfBxcSSKjQldRS5w5sSfhsXNrxpRmLKSmUwtDebsg8zmSUv2QNim0tg=m22
-
-#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1590722248/tjcqr50ulj2bclmrmzfk.jpg" group-title="VOD INDO", Flight 555 
-http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg5MmQ5MWItZjUxNS00MzhjLWFhNGItMmJmYmUwYTQwYzdmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR104,0,630,1200_AL_.jpg" group-title="VOD INDO", 5 Cowok Jagoan 
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg5MmQ5MWItZjUxNS00MzhjLWFhNGItMmJmYmUwYTQwYzdmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR104,0,630,1200_AL_.jpg" group-title="VOD INDO", 5 Cowok Jagoan 
 http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
 
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4505/734505-h" group-title="VOD INDO", Warkop DKI Reborn: Jangkrik Boss Part 2
+#EXTINF:-1 type="movie" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4505/734505-h" group-title="VOD INDO", Warkop DKI Reborn: Jangkrik Boss Part 2
 http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/Cek_Toko_Sebelah.jpg" group-title="VOD INDO",Cek Toko Sebelah 
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/Cek_Toko_Sebelah.jpg" group-title="VOD INDO",Cek Toko Sebelah 
 http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
 http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
 
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Bebas Aturan Main
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
 
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Godain Kita Dong
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Itu Bisa Diatur
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Malu Malu Mau
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Saya Suka Kamu Punya
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta (2002)
-https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta 2 (2016)
-https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Kartini
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Sesuai Aplikasi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Soekarno
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Susah Sinyal
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Dilan 1990 
-https://lh3.googleusercontent.com/NSb9QLl2iVFm8XJ3im0QftpPCirRvvaxtD6rdqnBx3npfKxIcOcdVDNupiZl19P5yCyo8_BcyO11y_Yzyg=m22
-
-#EXTINF:-1 group-title="VOD INDO",Dilan 1991 
-https://lh3.googleusercontent.com/i7g3xzbbl23ftxhbBGJqjfFkQg-M2iWxzdJARAv2i-zdjAwBDIicIWt6v6hqqTPVu6SfsJ-l0eVwbFVCzQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Kapal Goyang Kapten 
-https://lh3.googleusercontent.com/fqkgjzYRNfVIgDo1Kt3Ls6Z3aa1OZ5_N9phHY0CdX_BdvA4gg_Cst2GabbpAXWvi_cbwy3hykZmyRD6yoA=m22
-
-#EXTINF:-1 group-title="VOD INDO",Suzana : Burried Alive 
-https://lh3.googleusercontent.com/L1TQR6prw9IuSX77AzFPgtSndl0UeLav-7Bd7gmPcV4d90zlOzr9_MxLtKgRxYXoR6kiBLA0jHDIK0Fm8g=m22
-
-#EXTINF:-1 group-title="VOD INDO",The Raid : Redemption 
-https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeDdpUDNiONyTSdn6yeUjxnLUZSjql7JIWfkIiw=m22
-
-#EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
-https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
-
-#EXTINF:-1 group-title="VOD INDO",Ashiap Man
-https://www.googleapis.com/drive/v3/files/1fdd5aeRsr9hWFLFOTi6sb1LjWKiRgElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Lara Ati
-https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Satria Dewa: Gatotkaca
-https://www.googleapis.com/drive/v3/files/1dseWjhS3mKLOwG1tbwKDVHIPlAnYbMZ6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Before I Met You
-https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Before, Now & Then (Nana)
-https://www.googleapis.com/drive/v3/files/1JUL4w_2mbSR88vpNac7ieHH_uAPJn3_O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Keluarga Cemara 2
-https://www.googleapis.com/drive/v3/files/1H3N0wVsxKpkHSLK6kui0m5eGeOjZN5-4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Ngeri-Ngeri Sedap
-https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Sinar Untuk Genta
-https://www.googleapis.com/drive/v3/files/1HcdKPajIAw3MgdvrNJ1v2e-dL-6ra3ei?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Cinta Subuh
-https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Love in Game
+#EXTINF:-1 type="movie" group-title="VOD INDO",Love in Game
 https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Preman: Silent Fury
-https://www.googleapis.com/drive/v3/files/1hz-lMeKA9fil5YQq56kmMabmy03KApuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Gara-Gara Warisan
-https://www.googleapis.com/drive/v3/files/1G4VOoFYs0VESfMpMEtVeRNyCu8C4SWXE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",48 Jam untuk Indah
-https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Tiga Janda Melawan Dunia
-https://www.googleapis.com/drive/v3/files/1seAfQ6hZRbzYdo3gugjqtmYja1dXYWqs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Perjalanan Pertama
-https://www.googleapis.com/drive/v3/files/10BAw1AoK9DaHaBKJCy32GnTxSqyo_pez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Mertua vs. Menantu
-https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",I Need You Baby
-https://www.googleapis.com/drive/v3/files/1X8PXFkfaOovmBvIYlF_tR5PpNd1srG7p?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Garis Waktu
-https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Before Now & Then Nana
-https://www.googleapis.com/drive/v3/files/1SjvXwBeZaZNL1eFIUVOTDx_b___twIa2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Hayya 2: Hope, Dream and Reality
-https://www.googleapis.com/drive/v3/files/1Rzk7pEeb7GE8LfvxAgkgDL1Uk15cqBqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Backstage
-https://www.googleapis.com/drive/v3/files/1Vs46mDw0DKYu0jquK7cMjisL0032AO5W?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Serigala Terakhir
+#EXTINF:-1 type="movie" group-title="VOD INDO",Serigala Terakhir
 https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Kadet 1947
-https://www.googleapis.com/drive/v3/files/1Y3PV8NxfkU_4VBWKqMACvpRVEuqB_EF6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2023/04/5QVcXthCvEs8wRRCEO4QMW8HU40-170x255.jpg" group-title="VOD INDO", Masuk Kena Keluar Kena
+#EXTINF:-1 type="movie" tvg-id="Apple TV.id" tvg-logo="https://new12.ngefilm.site/wp-content/uploads/2023/04/5QVcXthCvEs8wRRCEO4QMW8HU40-170x255.jpg" group-title="VOD INDO", Masuk Kena Keluar Kena
 https://pixeldrain.com/api/file/MLZSyVnu
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://new10.ngefilm.site/wp-content/uploads/2023/04/zrDSIz5FC26caRmAFcNh4uy5Mg9-152x228.jpg" group-title="VOD INDO", Bisa Naik Bisa Turun
+#EXTINF:-1 type="movie" tvg-id="Apple TV.id" tvg-logo="https://new10.ngefilm.site/wp-content/uploads/2023/04/zrDSIz5FC26caRmAFcNh4uy5Mg9-152x228.jpg" group-title="VOD INDO", Bisa Naik Bisa Turun
 https://pixeldrain.com/api/file/EgY6pgri
 
-#EXTINF:-1 tvg-logo="https://file.indonesianfilmcenter.com/uploads/2018-12/pencet-sana-pencet-sini.jpg" group-title="VOD INDO",Pencet Sana Pencet Sini
+#EXTINF:-1 type="movie" tvg-logo="https://file.indonesianfilmcenter.com/uploads/2018-12/pencet-sana-pencet-sini.jpg" group-title="VOD INDO",Pencet Sana Pencet Sini
 https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Pertaruhan
+#EXTINF:-1 type="movie" group-title="VOD INDO",Pertaruhan
 https://www.googleapis.com/drive/v3/files/1qOpPKObAVVwLpG5QB_Ttd6PbqmuWpugf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",The Last Prank
-https://www.googleapis.com/drive/v3/files/1mk2bPplaAM9HenaccaBcbLQOXPIDSPtx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",How Are You Really?
-https://www.googleapis.com/drive/v3/files/1bS1EVrOx3PsJiguizDfpGnGr1DuR6gJm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Ben & Jody
-https://www.googleapis.com/drive/v3/files/1tZMWGdrTwHvLef64IvY3oZkTE7uDVPJW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kau & Dia 2
-https://www.googleapis.com/drive/v3/files/1s_e9KrJSLVmhRLJ-jqZtDhdZ_m_EZJsM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Baby Blues
-https://www.googleapis.com/drive/v3/files/1OtvcGMbBXa8q70V7N_5-hwOOPeMIshSt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kopi Pahit
-https://www.googleapis.com/drive/v3/files/1Ls3lv2pcrKL-MTYMKIAGlT7KdN2PxnfZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kambodja
-https://www.googleapis.com/drive/v3/files/1Ac_LpkS9ekuxK8fWG8FvcKXMY6trZ2ln?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Wedding Agreement
-https://www.googleapis.com/drive/v3/files/16Hd7392c8_D0CsGI8X6feUVNVeFEYohb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Vidkill
-https://www.googleapis.com/drive/v3/files/1UHRQQ6p_gkTKL2sLUTvm4-vPTIAkRUDs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Merindu Cahaya De Amstel
-https://www.googleapis.com/drve/v3/files/1O67axAjHAnlRaEq-KWV97_ZbRpGnEWWD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Dear Nathan: Thank You Salma
-https://www.googleapis.com/drive/v3/files/1IdL3S7F_X91GtngUiliWJoYNrkkq9H2w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Teka-Teki Tika
-https://www.googleapis.com/drive/v3/files/13xQ0mcvRG07OpulzDLyMDie1R3JZpzDy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Yuni
-https://www.googleapis.com/drive/v3/files/1GvO7x7gSr3HmXHgXh9cBbGnMHX4aAtQP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",After Met You
-https://www.googleapis.com/drive/v3/files/11TsHxCkqRWOkWgY_WC_XlRBRSq2PoFEN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Tuhan Minta Duit!
-https://www.googleapis.com/drive/v3/files/1sQpXz0ZYWvjYqaxWzPTyhPSEwYwidanB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Pulang
-https://www.googleapis.com/drive/v3/files/1PWeNNXAuPGjdOs3qy__6rvPyf7A0moDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Yowis Ben3
-https://www.googleapis.com/drive/v3/files/1ar6ZwvbzkugMVmVvR5s4-VnVuHUtejVV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Seperti Dendam, Rindu Harus Dibayar Tuntas
-https://www.googleapis.com/drive/v3/files/1ciwPQMWFMajBk7n3dOcqHNO8JhOfmYhS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Clandestine
-https://www.googleapis.com/drive/v3/files/1LYgqcmjFtyA77m-F7AUR18rvNMpCEgoa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Satu Untuk Selamanya
-https://www.googleapis.com/drive/v3/files/1JkJU1q7mvqZIK06KUVXvQJmHTmuHyxAi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",7-24
+#EXTINF:-1 type="movie" group-title="VOD INDO",7-24
 https://www.googleapis.com/drive/v3/files/1mx3ywdB-vhW_RozNtULi-_o1AMoFWBWU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",Jakarta vs Everybody
 https://www.googleapis.com/drive/v3/files/1bIB-CyWvy4fAwABxxT0m2LwlCG3hkgy6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Cinta Pertama, Kedua & Ketiga
-https://www.googleapis.com/drive/v3/files/1O8Ms6AdlG8b81wrp0wQepEC1VE-Lk2hA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Cinta Warung Sebelah
-https://www.googleapis.com/drive/v3/files/1yLmPzuC_ZNmS7meo9jPKc1Bh8Fg8clhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Father & Son
-https://www.googleapis.com/drive/v3/files/1G94bJbLg6zEMGTo4EpGSHA5h4Im8Pie7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Marlina si Pembunuh dalam Empat Babak
-https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Akhirat: A Love Story
-https://www.googleapis.com/drive/v3/files/1V5iiIO7_IlffUUK7gaEwN4xyBNA97gni?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Ada Mertua Di Rumahku
-https://www.googleapis.com/drive/v3/files/1J0LV1GPWyp29SZAxttrCuztGqTz_sDNZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Cek Ombak Melulu
-https://www.googleapis.com/drive/v3/files/1gpPoR9BdBqFFWz-6svXld4nxRZC4nJhG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Enam Batang
-https://www.googleapis.com/drive/v3/files/1vhua-3To0ZvwT8uGPm-AB9Tnf1w0aQYI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Aku Bukan Jodohnya
-https://www.googleapis.com/drive/v3/files/1FBDzo_8U5R-JfnBNR5b_5RmN4hMnDQq1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Eyang Ti
-https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Menunggu Bunda
-https://www.googleapis.com/drive/v3/files/1NH1ROYrB-zACqhlIbgCPr-UAh_kxxdiu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kemarin
-https://www.googleapis.com/drive/v3/files/1n2vmBIoqT1kfRTpNvT3VzIXzgxeWUdMw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kapan Pindah Rumah?
-https://www.googleapis.com/drive/v3/files/1bwOSUXFQIZIsZx9cBTlvf1YdQu4KRVMi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Love of Fate
-https://www.googleapis.com/drive/v3/files/11Smi54BAqIpIE6xL6rbEUbXCxv9a-GC0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Paranoia
-https://www.googleapis.com/drive/v3/files/1bNrI_17VXW8kmIzrizrPwO3SIMDq2BV5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Agen Dunia
-https://www.googleapis.com/drive/v3/files/1GqXTTf4mFrzxaTrGsgG8wyJxZlMMvLEz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Preman in Love
-https://www.googleapis.com/drive/v3/files/1VqF1X9yTwC_zopFNRKVfltXkqR2uqdY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Geez & Ann
-https://www.googleapis.com/drive/v3/files/1n1Y0DBr1k0bwLO8eKDaxAdzSi8XSjZks?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Senzano Savan
-https://www.googleapis.com/drive/v3/files/1AGwOANEL9cir_qA8WcpyOLWZNbfEaSOG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Gila Lu Ndro!
-https://www.googleapis.com/drive/v3/files/1Te5f1B2lnT7Kqex9MIaAXHJgLoJZpfeH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Ada Cinta di SMA
-https://www.googleapis.com/drive/v3/files/1zBsMX9G8pzvo4lYUOEYW1tRt7nxFn3Vv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Susah Sinyal
-https://www.googleapis.com/drive/v3/files/1Kjawax5jGDG1jWJIhmN64oegwXPwPEoW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Love for Sale 2
-https://www.googleapis.com/drive/v3/files/1lGaxzRE2KI5DGTqyWWX6twkLhYQFAeDc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Love for Sale
-https://www.googleapis.com/drive/v3/files/1QIHiznLRHEJ4OxSlvvP1R3-uBQ7Vde3O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Hari Yang Dijanjikan
-https://www.googleapis.com/drive/v3/files/1weKZ-8ejDRCEgcuFRf_wSLpDCGYIv8LA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kau & Dia
-https://www.googleapis.com/drive/v3/files/130IRjDIhoehAJzAPcWrYVyk4o0OLZLVJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Youtubers
-https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Supernova: Ksatria, Putri, & Bintang Jatuh
-https://www.googleapis.com/drive/v3/files/18galp4Tpdmx3Fc-XRQgJYXBAtz6HqEu6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Sin
-https://www.googleapis.com/drive/v3/files/1qk30HnUkOxgttQ4tE6_twVAN4rpxOk9y?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Balada Sepasang Kekasih Gila
-https://www.googleapis.com/drive/v3/files/1Dtjka2pO7KRUSlFov8NhCEEAycKiCtKH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Pesan di Balik Awan
-https://www.googleapis.com/drive/v3/files/1_XdP_w2W1IlktHgHucYo4S7_4HrD_TfR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Marriage
-https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Kau & Dia
-https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Nussa
-https://www.googleapis.com/drive/v3/files/1kkH-g4_BSJjxeogL92s7PUe-gtbLuFYP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Lara Ati
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Ngeri-Ngeri Sedap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Love in Game
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="VOD INDO",Preman: Silent Fury
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/1hz-lMeKA9fil5YQq56kmMabmy03KApuD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO",48 Jam untuk Indah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -2321,10 +1959,6 @@ https://www.googleapis.com/drive/v3/files/1hzGvOFzuHYiTkse7CeuXrRt6qvFmooEY?alt=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 https://seraphinapl.com/stream/eYjqnY0Hj-YX0ZJbfCa1Pg/hjkrhuihghfvu/1750826797/8197492/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="VOD INDO",Garis Waktu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-https://www.googleapis.com/drive/v3/files/18r0y8AzF1QRkcRd4ygC8Ggln4ul-A7b4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 group-title="VOD INDO",Serigala Terakhir
 https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -2334,50 +1968,6 @@ https://hlswish.com/stream/PaMFhi06Jf9sfIy4SMNksg/kjhhiuahiuhgihdf/1750828088/25
 #EXTINF:-1 group-title="VOD INDO",Petaka Gunung Gede
 https://movearnpre.com/stream/KEH2WKjA4DULrT6Hzm9i7A/hjkrhuihghfvu/1750827718/26702917/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/3cba94fb3fa68381fd19f47a6c7976cc.jpg" tvg-name="Fireworks,Fireworks
-https://ktpremium.com:443/movie/A0112/8544/925339.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/bce6cf5dc1ef84f127854c06f05a8650.jpg", Kun Ana Wa Anta,Kun
-https://ktpremium.com:443/movie/A0112/8544/925965.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/f9f6a029bcb6b7e44e7b370d259685b6.jpg" tvg-name="Headhunter (2023) [BM]" ,Headhunter (2023) [BM]
-https://ktpremium.com:443/movie/A0112/8544/926209.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLkviJkau1cRMCoAa06R1gkH2Hn.jpg" tvg-name="Waktu Maghrib (2023)[BM]" ,Waktu Maghrib (2023)[BM]
-https://ktpremium.com:443/movie/A0112/8544/926217.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QvxIbiWuWXUbOhXAsAyYZUVfke.jpg" tvg-name="Ranah 3 Warna (2022) [ENG]" ,Ranah 3 Warna (2022) [ENG]
-https://ktpremium.com:443/movie/A0112/8544/926221.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/dfb5df765342d00964c09c6928b7702a.jpg" tvg-name="Bismillah Kunikahi Suamimu (2023) [NOSUB]" ,Bismillah Kunikahi Suamimu (2023) [NOSUB]
-https://ktpremium.com:443/movie/A0112/8544/926692.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/b8de2c6419f51fb0e6fd9cceed1ee9d1.jpg" tvg-name="Hidayah (2023)[ENG]" ,Hidayah (2023)[ENG]
-https://ktpremium.com:443/movie/A0112/8544/926693.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/d0aa44d8d01beb674447f70d5d9b3b92.jpg" tvg-name="Imaginur (2023)[BM]" ,Imaginur (2023)[BM]
-https://ktpremium.com:443/movie/A0112/8544/926694.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://portalsemakan.com/wp-content/uploads/2023/07/361248905_657057309802192_1947969331123126742_n.jpeg" tvg-name="Anugerah Bintang Popular BH (2023)" ,Anugerah Bintang Popular BH (2023)
-https://ktpremium.com:443/movie/A0112/8544/927644.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/dfdf1def987301dd89c1ea306ec5f3ed.jpg" tvg-name="Kau Pilih Siapa? (2023)" ,Kau Pilih Siapa? (2023)[NOSUB]
-https://ktpremium.com:443/movie/A0112/8544/928098.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/fed60ab622afe7783006d8da1332fe39.jpg" tvg-name="Stone Turtle (2022) [BM]" ,Stone Turtle (2022) [BM]
-https://ktpremium.com:443/movie/A0112/8544/928391.mp4
-
-#EXTINF:-1 group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/25eb1d9247ac27861f7ce51f26a954c3.jpg" tvg-name="Dunia Tanpa Suara (2023) [ENG]" ,Dunia Tanpa Suara (2023) [ENG]
-https://ktpremium.com:443/movie/A0112/8544/928396.mp4
-
-#EXTINF:-1 type="movie" group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/4de05b5a8c5fe8db2e72a407548fca93.jpg" tvg-name="Tainted Soul (2022)[BM]" ,Tainted Soul (2022)[BM]
-https://ktpremium.com:443/movie/A0112/8544/928736.mp4
-
-#EXTINF:-1 type="movie" group-title="VOD INDO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dyXheU12Dv2GrhnjPQ3iIZG3ne.jpg" tvg-name="Losmen Melati (2023)[BM]" ,Losmen Melati (2023)[BM]
-https://ktpremium.com:443/movie/A0112/8544/929226.mp4
-
-#EXTINF:-1 type="movie" group-title="VOD INDO" tvg-logo="http://ktpremium.com:2095/images/77b198b0c27d502f519c8956e19d8cd4.jpg" tvg-name="Alena: Anak Ratu Iblis (2023)[NOSUB]" ,Alena: Anak Ratu Iblis (2023)[NOSUB]
-https://ktpremium.com:443/movie/A0112/8544/929400.mp4
 
 
 =======================MOVIE INDONESIA HOROR=======================
@@ -2760,6 +2350,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/779b4fcdf8941dee7a64b1c74a6a7fe5/720p/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="The Maze Runner (2014)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2020/02/coss7RgL0NH6g4fC2s5atvf3dFO.jpg" group-title="MOVIE COLLECTION", The Maze Runner (2014)
 https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
+
 
 
 
