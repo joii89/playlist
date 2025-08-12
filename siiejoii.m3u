@@ -1,9 +1,16 @@
 
 #EXTM3U x-tvg-url="siiejoii
+#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, 
+https://www.open-epg.com/files/indonesia1.xml,
+https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, 
+https://tinyurl.com/DrewLive002-epg" refresh="3600"
+#EXTM3U x-tvg-url="http://epg.urfan.web.id"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml
 #EXTM3U x-tvg-url="http://epg.urfan.web.id"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xm
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml
 #EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml
 
 
@@ -40,7 +47,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
@@ -160,7 +167,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="PLAYLIS🇮🇩",TRANS7
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="PLAYLIST🇮🇩",TRANS7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
@@ -190,7 +197,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="PLAYLIST 🇮🇩", Flik
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="PLAYLIST🇮🇩", Flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
 
@@ -430,7 +437,7 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
 
-#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩",MDTV TV
+#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="PLAYLIST INDONESIA🇮🇩",MDTV TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -2789,6 +2796,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/779b4fcdf8941dee7a64b1c74a6a7fe5/720p/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="The Maze Runner (2014)" tvg-logo="https://i0.wp.com/www.fabtheduo.com/wp-content/uploads/2020/02/coss7RgL0NH6g4fC2s5atvf3dFO.jpg" group-title="MOVIE COLLECTION", The Maze Runner (2014)
 https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
+
 
 
 
