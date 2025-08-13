@@ -1,14 +1,17 @@
-
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" refresh="3600"
 #EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
-#EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600
+#EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" refresh="3600"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="3600"
 #EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" refresh="3600"
 
+
 <------------------ PLAYLIST🇮🇩 ---------------->
 
+
 #EXTM3U
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:network-caching=1000
@@ -33,13 +36,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264774.ts
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505834.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 group-title="PLAYLIST🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop 
+#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" group-title="PLAYLIST🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
@@ -50,7 +53,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
