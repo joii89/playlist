@@ -142,7 +142,8 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="PLAYLIST🇮🇩",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/indeks.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -228,11 +229,20 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505817.m3u
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="PLAYLIST🇮🇩", Flik
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩", Flik 🟠
+#https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="PLAYLIST🇮🇩", Flik
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29592.ts
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
 http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
