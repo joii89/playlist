@@ -1,11 +1,11 @@
 #EXTM3U billed-msg="Siie Joii"
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
-#EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
-#EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" refresh="3600"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="3600"
-#EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" refresh="3600"
+#EXTM3U tvg-url="http://epg.urfan.web.id" refresh="3600"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
+#EXTM3U tvg-url="http://epg.urfan.web.id" refresh="3600"
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" refresh="3600"
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="3600"
+#EXTM3U tvg-url=https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" refresh="3600"
 
 
 <------------------ PLAYLIST🇮🇩 ---------------->
@@ -53,7 +53,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg%20Indonesia" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="PLAYLIST🇮🇩",HBO HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 http://iptvtree.net:8080/live/F28312/cc1dc138/306484.ts
@@ -65,7 +65,7 @@ http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505836.m3u
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="PLAYLIST🇮🇩", Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="PLAYLIST🇮🇩", Studio Universal
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
@@ -73,7 +73,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="PLAYLIST🇮🇩", Superrix
+#EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="PLAYLIST🇮🇩", Superrix
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
@@ -98,7 +98,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png" group-title="PLAYLIST🇮🇩",SCTV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/330px-SCTV_Logo.svg.png" group-title="PLAYLIST🇮🇩",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
