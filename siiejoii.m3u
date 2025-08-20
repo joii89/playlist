@@ -1,4 +1,5 @@
-#EXTM3U billed-msg="Siie Joii" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
+#EXTM3U billed-msg="Siie Joii"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" refresh="3600"
 #EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
 #EXTM3U x-tvg-url="http://epg.urfan.web.id" refresh="3600"
@@ -106,10 +107,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="PLAYLIST🇮🇩",ETV Bioskop 2
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩",ETV Bioskop 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -117,10 +123,7 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlb9Xgr.png" group-title="PLAYLIST🇮🇩",ETV Bioskop 3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -491,7 +494,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="📺 PLAYLIST MOVIE 📺", IMC ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Ver
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩", IMC 
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
@@ -694,7 +696,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTINF:-1 group-title="🇮🇩 PLAYLIST INDONESIA 🇮🇩" tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://img.favpng.com/5/15/14/beritasatu-com-logo-beritasatu-media-holdings-news-png-favpng-ascxjWXRYnY9w2tGEsZusEmJa.jpg",Berita Satu
-##https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
